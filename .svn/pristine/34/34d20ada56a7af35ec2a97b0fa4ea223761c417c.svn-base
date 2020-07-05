@@ -1,0 +1,50 @@
+JUnit version 4.12
+.2016/04/18 13:10:04
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 0
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Deploy.xls
+TestCase Name----LoginDploy_59
+suitSheet----jxl.read.biff.SheetImpl@109099d
+Executing the TestCase: Metric Tab – Verify is planned value linear check box  Flag : N
+RetryCount : 0
+Step 1 of LoginDploy_59 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_59 Executing
+<--Wait-->
+Step 5 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_59 Executing
+<--Wait-->
+Step 7 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Daily Management']
+in exception-------------------ClickonButtonbyxpath
+driverChromeDriver: chrome on XP (99c3d75705ec832968aa7ce4afb51998)
+OSNameFromGenericWindow 7
+.Genrating Report...
+folderPathD:\selenium_framework\trunk\Selenium_framework/TestCases_Report/18Apr/18Apr 13-10-04/
+folder_browser  D:\selenium_framework\trunk\Selenium_framework\TestCases_Report\18Apr\18Apr 13-10-04
+nameOfFile  LoginDploy_59^Metric Tab – Verify is planned value linear check box .txt
+this.testCaseName : LoginDploy_59^Metric Tab – Verify is planned value linear check box 
+myTestCasename : LoginDploy_59^Metric Tab – Verify is planned value linear check box .txt
+failFlag : 1
+caseName[Ljava.lang.String;@b139c9
+sendReportByMailFlag from config is:N
+sendReportByMail flag is set as N in config so mail report will not send
+
+Time: 66.678
+
+OK (3 tests)
+

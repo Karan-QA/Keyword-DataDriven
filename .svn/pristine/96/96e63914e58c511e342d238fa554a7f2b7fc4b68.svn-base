@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24923" started-at="2016-10-06T10:15:59Z" finished-at="2016-10-06T10:16:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24923" started-at="2016-10-06T10:15:59Z" finished-at="2016-10-06T10:16:24Z">
+      <class name="com.test.testt">
+        <test-method status="PASS" signature="verifyPage()[pri:0, instance:com.test.testt@82a3b2]" name="verifyPage" duration-ms="11670" started-at="2016-10-06T15:45:59Z" finished-at="2016-10-06T15:46:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPage -->
+        <test-method status="PASS" signature="verifyPageknew()[pri:0, instance:com.test.testt@82a3b2]" name="verifyPageknew" duration-ms="6330" started-at="2016-10-06T15:46:11Z" finished-at="2016-10-06T15:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageknew -->
+        <test-method status="PASS" signature="verifyPagenew()[pri:0, instance:com.test.testt@82a3b2]" name="verifyPagenew" duration-ms="6887" started-at="2016-10-06T15:46:17Z" finished-at="2016-10-06T15:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPagenew -->
+      </class> <!-- com.test.testt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

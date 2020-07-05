@@ -1,0 +1,451 @@
+<html><HEAD><TITLE>Detailed Test Results</TITLE> <script type="text/javascript"> function toggle_visibility(event1) { var e = document.getElementById(event1); if(e.style.display == 'block'){ e.style.display = 'none'} else{ e.style.display = 'block' } }</script></HEAD><body bgcolor="#E6E6FA"><h1 align="left"><FONT COLOR="660066" FACE="Arial"SIZE=3.75>&nbsp;&nbsp;&nbsp;&nbsp;<b><u>Detailed Report</u></b></h1>
+<table border=2 cellspacing=1 cellpadding=1 ><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2><b>Operating System:</b></TD><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Window 7</TD></TR><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2><b>Browser/Application:</b></TD><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Chrome</TD></TR></table>
+<table cellspacing=1 cellpadding=1   border=1>
+<tr><td width=80  align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>S.No.</b></td>
+<td width=75 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>Module Name</b></td>
+<td width=400 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>Description</b></td>
+<td width=600 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>TestCase ID</b></td>
+<td width=75 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>TestCase Status</b></td></tr>
+<tr onclick="toggle_visibility('test1');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>1</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_3</b></td>
+<td width=75 height=50 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Verify metric in Metric Selection Grids</b></td>
+<td width=600 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_3</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Pass</b></td></tr>
+<tr><td></td><td></td><td></td><td bgcolor="#B8860B"><table style="display:none" id=test1 border=1 cellspacing=1 cellpadding=1 >
+<tr onclick="toggle_visibility('LoginDploy_3_0');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>1</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>sentinel </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/1.png> </b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_1');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>2</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser "AppURL" is launched successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/2.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_2');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>3</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "tjones@abcpaint.com" is entered successfully in "UserName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/3.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_3');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>4</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "jonesABC!1" is entered successfully in "Password"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/4.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_4');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>5</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "loginButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/5.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_5');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>6</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Admin"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/6.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_6');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>7</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "PortalAdmin"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/7.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_7');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>8</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "UpdateMetric"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/8.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_8');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>9</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "NetCostTestNew" is entered successfully in "MetricName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/9.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_9');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>10</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Item "Cost" is selected in dropdown "MetricType" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/10.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_10');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>11</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "To Check the net cost" is entered successfully in "MetricDesc"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/11.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_11');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>12</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Item "Up" is selected in dropdown "MetricTrend" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/12.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_12');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>13</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Item "currency" is selected in dropdown "MetricMeasureType" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/13.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_13');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>14</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Item "Dollar (US) [$]" is selected in dropdown "MetricUnit" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/14.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_14');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>15</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AssignedLocation"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_15');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>16</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "Clubs" is matched with actual text "Clubs" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/16.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_16');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>17</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "24" is entered successfully in "MetricDuration"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/17.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_17');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>18</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "jo" is entered successfully in "metricOwner"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/18.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_18');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>19</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "Jones" is matched with actual text "Jones, Thomas - Clubs" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/19.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_19');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>20</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Item "Week" is selected in dropdown "MetricFrequency" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/20.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_20');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>21</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddPlannedValues"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/21.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_21');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>22</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "50" is entered successfully in "PlannedJumpOffValue"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/22.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_22');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>23</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "PlannedGrid"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/23.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_23');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>24</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "100" is entered successfully in "PlannedValueGrid"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/24.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_24');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>25</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddThreshold"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/25.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_25');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>26</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "40" is entered successfully in "ThresholdValue"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/26.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_26');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>27</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunit"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/27.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_27');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>28</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunitdropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/28.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_28');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>29</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricunitNumbers"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/29.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_29');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>30</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricSeverity"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/30.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_30');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>31</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeveritydropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/31.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_31');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>32</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeverityCritical"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/32.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_32');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>33</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddThreshold"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/33.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_33');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>34</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "30" is entered successfully in "ThresholdValue"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/34.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_34');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>35</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunit"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/35.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_35');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>36</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunitdropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/36.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_36');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>37</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricunitNumbers"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/37.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_37');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>38</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricSeverity"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/38.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_38');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>39</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeveritydropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/39.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_39');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>40</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeverityCaution"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/40.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_40');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>41</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddThreshold"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/41.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_41');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>42</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "10" is entered successfully in "ThresholdValue"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/42.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_42');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>43</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunit"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/43.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_43');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>44</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunitdropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/44.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_44');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>45</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricunitNumbers"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/45.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_45');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>46</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricSeverity"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/46.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_46');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>47</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeveritydropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/47.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_47');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>48</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeverityAcceptableMiss"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/48.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_48');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>49</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddThreshold"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/49.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_49');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>50</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "20" is entered successfully in "ThresholdValue"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/50.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_50');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>51</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunit"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/51.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_51');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>52</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Thresholdmetricunitdropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/52.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_52');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>53</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricunitNumbers"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/53.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_53');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>54</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdmetricSeverity"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/54.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_54');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>55</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeveritydropdown"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/55.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_55');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>56</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ThresholdSeverityNearMiss"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/56.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_56');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>57</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "SaveMetric"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/57.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_57');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>58</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "NetCostTestNew" is verified successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/58.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_58');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>59</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "User"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/59.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_59');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>60</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "SignOut"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_3/60.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_3_60');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>61</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser is closed successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+</table></td></tr>
+<tr onclick="toggle_visibility('test2');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>2</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_5</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Verify miss result of metric </b></td>
+<td width=600 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_5</b></td>
+<td width=75 align="center"><FONT COLOR="red" FACE="Arial" SIZE=1.5><b>Fail</b></td></tr>
+<tr><td></td><td></td><td></td><td bgcolor="#B8860B"><table style="display:none" id=test2 border=1 cellspacing=1 cellpadding=1 >
+<tr onclick="toggle_visibility('LoginDploy_5_0');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>1</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>sentinel </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/1.png> </b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_1');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>2</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser "AppURL" is launched successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/2.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_2');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>3</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "tjones@abcpaint.com" is entered successfully in "UserName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/3.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_3');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>4</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "jonesABC!1" is entered successfully in "Password"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/4.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_4');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>5</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "loginButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/5.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_5');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>6</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Portal"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/6.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_6');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>7</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DailyManagement"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/7.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_7');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>8</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "Performance"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/8.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_8');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>9</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "PerformanceUpdateMetric"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/9.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_9');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>10</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "NetCostTestNew" is matched with actual text "NetCostTestNew" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/10.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_10');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>11</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "60" is entered successfully in "updateActualValue"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/11.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_11');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>12</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>DropDown Field  updateMetricShift is Disabled</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_5/12.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_12');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>13</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "saveUpdate"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_13');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>14</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "ButtonYes" is not successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Fail</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_5_14');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>15</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser is closed successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+</table></td></tr>
+<tr onclick="toggle_visibility('test3');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>3</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_7</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Verify move to feature of Bowler Watch Widget  </b></td>
+<td width=600 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_7</b></td>
+<td width=75 align="center"><FONT COLOR="red" FACE="Arial" SIZE=1.5><b>Fail</b></td></tr>
+<tr><td></td><td></td><td></td><td bgcolor="#B8860B"><table style="display:none" id=test3 border=1 cellspacing=1 cellpadding=1 >
+<tr onclick="toggle_visibility('LoginDploy_7_0');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>1</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>sentinel </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/1.png> </b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_1');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>2</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser "AppURL" is launched successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/2.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_2');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>3</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "tjones@abcpaint.com" is entered successfully in "UserName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/3.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_3');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>4</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "jonesABC!1" is entered successfully in "Password"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/4.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_4');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>5</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "loginButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/5.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_5');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>6</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "MyDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/6.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_6');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>7</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/7.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_7');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>8</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "beanNew" is entered successfully in "DashboardName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/8.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_8');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>9</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "New Dashboard desc" is entered successfully in "DashboardDescription"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/9.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_9');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>10</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "IsDefault"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/10.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_10');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>11</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardConfirm"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/11.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_11');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>12</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardSelectionDemo"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/12.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_12');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>13</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "MyDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/13.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_13');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>14</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/14.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_14');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>15</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "bean" is entered successfully in "DashboardName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/15.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_15');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>16</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "New Dashboard desc" is entered successfully in "DashboardDescription"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/16.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_16');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>17</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "IsDefault"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/17.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_17');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>18</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardConfirm"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/18.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_18');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>19</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardSelection"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/19.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_19');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>20</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "WidgetSelection"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/20.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_20');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>21</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "Bowler Watch" is matched with actual text "Bowler Watch" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/21.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_21');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>22</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddWidget"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_22');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>23</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "moveWidget"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_23');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>24</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "beanNew" is matched with actual text "beanNew" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/24.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_24');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>25</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardSelectionDemo"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/25.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_25');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>26</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected widget "Bowler Watch" is not matched with "" widget successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/26.png> Fail</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_26');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>27</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "myDashboard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/27.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_27');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>28</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "bean" is matched with actual text "bean" in setting successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/28.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_28');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>29</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "OkButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/29.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_29');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>30</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "beanNew" is matched with actual text "beanNew" in setting successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/30.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_30');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>31</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "OkButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/31.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_31');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>32</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "User"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/32.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_32');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>33</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "SignOut"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_7/33.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_7_33');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>34</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser is closed successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+</table></td></tr>
+<tr onclick="toggle_visibility('test4');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>4</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_8</b></td>
+<td width=75 height=50 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option</b></td>
+<td width=600 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_8</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Pass</b></td></tr>
+<tr><td></td><td></td><td></td><td bgcolor="#B8860B"><table style="display:none" id=test4 border=1 cellspacing=1 cellpadding=1 >
+<tr onclick="toggle_visibility('LoginDploy_8_0');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>1</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>sentinel </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/1.png> </b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_1');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>2</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser "AppURL" is launched successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/2.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_2');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>3</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "tjones@abcpaint.com" is entered successfully in "UserName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/3.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_3');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>4</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "jonesABC!1" is entered successfully in "Password"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/4.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_4');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>5</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "loginButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/5.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_5');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>6</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "MyDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/6.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_6');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>7</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/7.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_7');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>8</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "bean" is entered successfully in "DashboardName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/8.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_8');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>9</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "New Dashboard desc" is entered successfully in "DashboardDescription"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/9.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_9');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>10</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "IsDefault"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/10.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_10');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>11</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardConfirm"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/11.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_11');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>12</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardSelection"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/12.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_12');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>13</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "WidgetSelection"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/13.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_13');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>14</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "Biggest Bowler Misses" is matched with actual text "Biggest Bowler Misses" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/14.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_14');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>15</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddWidget"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/15.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_15');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>16</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected widget "Biggest Bowler Misses" is matched with  "Biggest Bowler Misses" widget successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_16');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>17</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "WidgetSettings"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_17');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>18</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "500" is entered successfully in "BBMminimumpercMiss"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/18.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_18');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>19</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "BiggestBowlerMissApplySetting"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/19.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_19');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>20</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "500.00" is matched with actual text "583.7" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/20.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_20');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>21</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "myDashboard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/21.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_21');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>22</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "bean" is matched with actual text "bean" in setting successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/22.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_22');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>23</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "OkButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/23.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_23');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>24</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "User"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/24.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_24');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>25</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "SignOut"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/25.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_25');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>26</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser is closed successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+</table></td></tr>
+<br><table border=0 cellspacing=2 cellpadding=2 ><TR><TD width=150 align="center"><FONT COLOR="660000" SIZE=3.75><b><u>Summary Report</u></b></TD></TR><br></table>
+<br><table border=2 cellspacing=1 cellpadding=1 ><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Execution Start Time:</TD><TD width=200 align="left"><FONT COLOR="660000" SIZE=2>2016/10/03 15:01:23</TD></TR><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Execution End Time:</TD><TD width=200 align="left"><FONT COLOR="660000" SIZE=2>2016/10/03 15:06:41</TD></TR></table>
+<br><table  border=2> <tr><td>
+<table border=0 cellspacing=2 cellpadding=2 ><tr><td width=70><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>Total:</b></td><td width=35><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>4</b></td> <td width=400 bgcolor="#E7A1B0"></td><td width=20><FONT COLOR="#000000" FACE="Arial" SIZE=1><b>100.0%</b></td></tr></table></td></tr>
+<tr><td ><table border=0 cellspacing=2 cellpadding=2 ><tr><td width=70><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>Pass:</b></td> <td width=35><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>2</b></td> <td width=200 bgcolor="#008000"></td><td width=20><FONT COLOR="#000000" FACE="Arial" SIZE=1><b>50%</b></td></tr></table></td></tr>
+<tr><td><table border=0 cellspacing=2 cellpadding=2 ><tr><td width=70><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>Fail:</b></td> <td width=35><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>2</b></td> <td width=200 bgcolor="#FF0000"></td><td width=20><FONT COLOR="#000000" FACE="Arial" SIZE=1><b>50%</b></td></tr></table>
+ </td></tr></table>

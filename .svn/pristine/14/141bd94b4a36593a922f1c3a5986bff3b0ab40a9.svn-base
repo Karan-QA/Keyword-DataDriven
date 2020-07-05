@@ -1,0 +1,94 @@
+<html><HEAD><TITLE>Detailed Test Results</TITLE> <script type="text/javascript"> function toggle_visibility(event1) { var e = document.getElementById(event1); if(e.style.display == 'block'){ e.style.display = 'none'} else{ e.style.display = 'block' } }</script></HEAD><body bgcolor="#E6E6FA"><h1 align="left"><FONT COLOR="660066" FACE="Arial"SIZE=3.75>&nbsp;&nbsp;&nbsp;&nbsp;<b><u>Detailed Report</u></b></h1>
+<table border=2 cellspacing=1 cellpadding=1 ><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2><b>Operating System:</b></TD><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Window 7</TD></TR><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2><b>Browser/Application:</b></TD><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Chrome</TD></TR></table>
+<table cellspacing=1 cellpadding=1   border=1>
+<tr><td width=80  align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>S.No.</b></td>
+<td width=75 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>Module Name</b></td>
+<td width=400 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>Description</b></td>
+<td width=600 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>TestCase ID</b></td>
+<td width=75 align="center" bgcolor="#153E7E"><FONT COLOR="#E0E0E0" FACE="Arial" SIZE=2><b>TestCase Status</b></td></tr>
+<tr onclick="toggle_visibility('test1');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>1</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_8</b></td>
+<td width=75 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option</b></td>
+<td width=600 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>LoginDploy_8</b></td>
+<td width=75 align="center"><FONT COLOR="red" FACE="Arial" SIZE=1.5><b>Fail</b></td></tr>
+<tr><td></td><td></td><td></td><td bgcolor="#B8860B"><table style="display:none" id=test1 border=1 cellspacing=1 cellpadding=1 >
+<tr onclick="toggle_visibility('LoginDploy_8_0');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>1</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>sentinel </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/1.png> </b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_1');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>2</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser "AppURL" is launched successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/2.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_2');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>3</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "tjones@abcpaint.com" is entered successfully in "UserName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/3.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_3');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>4</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "jonesABC!1" is entered successfully in "Password"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/4.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_4');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>5</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "loginButton"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/5.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_5');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>6</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "MyDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/6.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_6');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>7</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddDashBoard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/7.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_7');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>8</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "bean" is entered successfully in "DashboardName"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/8.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_8');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>9</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "New Dashboard desc" is entered successfully in "DashboardDescription"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/9.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_9');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>10</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "IsDefault"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/10.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_10');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>11</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardConfirm"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/11.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_11');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>12</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "DashBoardSelection"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/12.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_12');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>13</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "WidgetSelection"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/13.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_13');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>14</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "Biggest Bowler Misses" is matched with actual text "Biggest Bowler Misses" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/14.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_14');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>15</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "AddWidget"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/15.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_15');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>16</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected widget "Biggest Bowler Misses" is matched with  "Biggest Bowler Misses" widget successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_16');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>17</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "WidgetSettings"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_17');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>18</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Text "500" is entered successfully in "BBMminimumpercMiss"  </b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/18.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_18');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>19</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "BiggestBowlerMissApplySetting"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/19.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_19');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>20</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "500.00" is matched with actual text "583.7" successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/20.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_20');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>21</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "myDashboard"  is successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/21.png> Pass</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_21');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>22</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Expected text "beani" is not matched with actual text "bean"in setting successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/22.png> Fail</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_22');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>23</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Click on "OkButton" is not successful</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b><a href=screenshots/LoginDploy_8/23.png> Fail</b></td></tr>
+<tr onclick="toggle_visibility('LoginDploy_8_23');"><td width=80  align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>24</b></td>
+<td width=600 align="left"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b>Browser is closed successfully</b></td>
+<td width=90 align="center"><FONT COLOR="660000" FACE="Arial" SIZE=1.5><b> Pass</b></td></tr>
+</table></td></tr>
+<br><table border=0 cellspacing=2 cellpadding=2 ><TR><TD width=150 align="center"><FONT COLOR="660000" SIZE=3.75><b><u>Summary Report</u></b></TD></TR><br></table>
+<br><table border=2 cellspacing=1 cellpadding=1 ><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Execution Start Time:</TD><TD width=200 align="left"><FONT COLOR="660000" SIZE=2>2016/09/30 16:11:46</TD></TR><TR><TD width=150 align="left"><FONT COLOR="660000" SIZE=2>Execution End Time:</TD><TD width=200 align="left"><FONT COLOR="660000" SIZE=2>2016/09/30 16:12:39</TD></TR></table>
+<br><table  border=2> <tr><td>
+<table border=0 cellspacing=2 cellpadding=2 ><tr><td width=70><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>Total:</b></td><td width=35><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>1</b></td> <td width=400 bgcolor="#E7A1B0"></td><td width=20><FONT COLOR="#000000" FACE="Arial" SIZE=1><b>100.0%</b></td></tr></table></td></tr>
+<tr><td ><table border=0 cellspacing=2 cellpadding=2 ><tr><td width=70><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>Pass:</b></td> <td width=35><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>0</b></td> <td width=0 bgcolor="#008000"></td><td width=20><FONT COLOR="#000000" FACE="Arial" SIZE=1><b>0%</b></td></tr></table></td></tr>
+<tr><td><table border=0 cellspacing=2 cellpadding=2 ><tr><td width=70><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>Fail:</b></td> <td width=35><FONT COLOR="#000066" FACE="Arial" SIZE=2.75><b>1</b></td> <td width=400 bgcolor="#FF0000"></td><td width=20><FONT COLOR="#000000" FACE="Arial" SIZE=1><b>100%</b></td></tr></table>
+ </td></tr></table>

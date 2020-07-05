@@ -1,0 +1,2 @@
+Browser "AppURL" is not launched successfully:- Fail
+Browser is closed successfully:- Pass

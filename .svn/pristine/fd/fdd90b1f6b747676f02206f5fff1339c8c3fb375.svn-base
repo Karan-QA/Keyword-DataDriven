@@ -1,0 +1,36 @@
+JUnit version 4.12
+.2016/09/29 15:45:00
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Dploy_demo.xls
+no of test cases : 9
+TestCase Name----LoginDploy_7
+suitSheet----jxl.read.biff.SheetImpl@4d2125
+Executing the TestCase: Verify move to feature of Bowler Watch Widget   Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_7 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  dash_manageDashboard
+Step 6 of LoginDploy_7 Executing
+<--Wait-->
+Step 7 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  kAddDashboard
+Step 8 of LoginDploy_7 Executing
+<--Wait-->

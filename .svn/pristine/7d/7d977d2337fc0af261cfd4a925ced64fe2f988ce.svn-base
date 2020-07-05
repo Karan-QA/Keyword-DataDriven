@@ -1,0 +1,18 @@
+JUnit version 4.12
+.2016/04/18 15:14:41
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 0
+.suit Name----Demo
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Demo\Demo.xls
+TestCase Name----Demo_1
+suitSheet----jxl.read.biff.SheetImpl@1090c56
+Executing the TestCase: User Login  & UI Verification Flag : N
+RetryCount : 0
+Step 1 of Demo_1 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of Demo_1 Executing
+<--Wait-->

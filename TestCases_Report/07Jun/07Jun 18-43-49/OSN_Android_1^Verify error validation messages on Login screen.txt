@@ -1,0 +1,5 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Click on "StartYourFreeTrialButton"  is successful:- Pass
+Click on "SubScribeWithButton" is not successful:- Fail
+Browser is closed successfully:- Pass

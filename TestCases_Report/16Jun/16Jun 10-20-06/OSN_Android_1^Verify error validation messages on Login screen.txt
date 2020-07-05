@@ -1,0 +1,7 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Click on "StartYourFreeTrialButton"  is successful:- Pass
+Click on "SubScribeWithButton"  is successful:- Pass
+Actual Text "Password is required." matches the Expected Text "Password is required." :- Pass
+Actual Text "Email address is required." matches the Expected Text "Email address is required." :- Pass
+Browser is closed successfully:- Pass

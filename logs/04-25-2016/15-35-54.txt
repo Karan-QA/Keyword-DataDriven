@@ -1,0 +1,252 @@
+JUnit version 4.12
+.2016/04/25 15:35:54
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 0
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Deploy.xls
+TestCase Name----LoginDploy_1
+suitSheet----jxl.read.biff.SheetImpl@109099d
+before finding m
+m found at testcase 1
+m found at testcase DataSheet
+objectId =====================>Login_1_1
+objectId =====================>Login_1_2
+objectId =====================>Login_1_3
+objectId =====================>Login_1_4
+suitSheet.getRows()=====================>1233
+DataDrivenFlag1 : Y
+DataSheetName : DataSheet
+totalNuberOfTestCaseToBeExecutedInDataSheet : 4
+Executing the TestCase: Login  From  Application with valid pwd. Flag : Y
+RetryCount : 0
+Step 1 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_1 SubCase To be Search = Login_1_1 SubCase index  = 1
+Final Data passed  =  AppURL
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_2 SubCase To be Search = Login_1_1 SubCase index  = 1
+Final Data passed  =  tjones@abcpaint.com
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_3 SubCase To be Search = Login_1_1 SubCase index  = 1
+Final Data passed  =  jonesABC!1
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_4 SubCase To be Search = Login_1_1 SubCase index  = 1
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_5 SubCase To be Search = Login_1_1 SubCase index  = 1
+Final Data passed  =  Thomas Jones
+<--Wait-->
+driverChromeDriver: chrome on XP (5d5ea6cbb29ee262efc48ff641aaf424)
+Step 6 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_6 SubCase To be Search = Login_1_1 SubCase index  = 1
+Final Data passed  =  Thomas Jones
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Thomas Jones']
+in exception---------------------verifyTextByXpathorg.openqa.selenium.remote.SessionNotFoundException: no such session
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'NGZ563', ip: '192.168.60.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=xpath, value=//span[text()='Thomas Jones']}
+Session ID: 5d5ea6cbb29ee262efc48ff641aaf424
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\BEANT~1.SIN\AppData\Local\Temp\scoped_dir6884_16846}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.86, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+in screen shot exception---
+in screen shot exception---
+in exception-----------getTestData
+DataDrivenFlag1 : Y
+DataSheetName : DataSheet
+totalNuberOfTestCaseToBeExecutedInDataSheet : 3
+Executing the TestCase: Login  From  Application with valid pwd. Flag : Y
+RetryCount : 0
+Step 1 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_1 SubCase To be Search = Login_1_2 SubCase index  = 2
+Final Data passed  =  AppURL
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_2 SubCase To be Search = Login_1_2 SubCase index  = 2
+Final Data passed  =  tjones@abcpain.com
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_3 SubCase To be Search = Login_1_2 SubCase index  = 2
+Final Data passed  =  JonesABC!1
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_4 SubCase To be Search = Login_1_2 SubCase index  = 2
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_5 SubCase To be Search = Login_1_2 SubCase index  = 2
+Final Data passed  =  Thomas Jones
+<--Wait-->
+driverChromeDriver: chrome on XP (24295a1977f40852f74ae8235b86c0ea)
+Step 6 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_6 SubCase To be Search = Login_1_2 SubCase index  = 2
+Final Data passed  =  Thomas Jones
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Thomas Jones']
+in exception---------------------verifyTextByXpathorg.openqa.selenium.remote.SessionNotFoundException: no such session
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'NGZ563', ip: '192.168.60.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=xpath, value=//span[text()='Thomas Jones']}
+Session ID: 24295a1977f40852f74ae8235b86c0ea
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\BEANT~1.SIN\AppData\Local\Temp\scoped_dir1800_30055}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.86, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+in screen shot exception---
+in screen shot exception---
+in exception-----------getTestData
+DataDrivenFlag1 : Y
+DataSheetName : DataSheet
+totalNuberOfTestCaseToBeExecutedInDataSheet : 2
+Executing the TestCase: Login  From  Application with valid pwd. Flag : Y
+RetryCount : 0
+Step 1 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_1 SubCase To be Search = Login_1_3 SubCase index  = 3
+Final Data passed  =  AppURL
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_2 SubCase To be Search = Login_1_3 SubCase index  = 3
+Final Data passed  =  tjones@abcpaint.com
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_3 SubCase To be Search = Login_1_3 SubCase index  = 3
+Final Data passed  =  jonesABC!
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_4 SubCase To be Search = Login_1_3 SubCase index  = 3
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_5 SubCase To be Search = Login_1_3 SubCase index  = 3
+Final Data passed  =  Thomas Jones
+<--Wait-->
+driverChromeDriver: chrome on XP (2c63c8d57feab5992cb55b31260ba9bf)
+Step 6 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_6 SubCase To be Search = Login_1_3 SubCase index  = 3
+Final Data passed  =  Thomas Jones
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Thomas Jones']
+in exception---------------------verifyTextByXpathorg.openqa.selenium.remote.SessionNotFoundException: no such session
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'NGZ563', ip: '192.168.60.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=xpath, value=//span[text()='Thomas Jones']}
+Session ID: 2c63c8d57feab5992cb55b31260ba9bf
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\BEANT~1.SIN\AppData\Local\Temp\scoped_dir2160_5733}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.86, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+in screen shot exception---
+in screen shot exception---
+in exception-----------getTestData
+DataDrivenFlag1 : Y
+DataSheetName : DataSheet
+totalNuberOfTestCaseToBeExecutedInDataSheet : 1
+Executing the TestCase: Login  From  Application with valid pwd. Flag : Y
+RetryCount : 0
+Step 1 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_1 SubCase To be Search = Login_1_4 SubCase index  = 4
+Final Data passed  =  AppURL
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_2 SubCase To be Search = Login_1_4 SubCase index  = 4
+Final Data passed  =  tjones@abcpain.com
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_3 SubCase To be Search = Login_1_4 SubCase index  = 4
+Final Data passed  =  jonesABC!
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_4 SubCase To be Search = Login_1_4 SubCase index  = 4
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_5 SubCase To be Search = Login_1_4 SubCase index  = 4
+Final Data passed  =  Thomas Jones
+<--Wait-->
+driverChromeDriver: chrome on XP (ffdf20ccac413ebd48a7c0874ffe5ee1)
+Step 6 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_6 SubCase To be Search = Login_1_4 SubCase index  = 4
+Final Data passed  =  Thomas Jones
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Thomas Jones']
+in exception---------------------verifyTextByXpathorg.openqa.selenium.remote.SessionNotFoundException: no such session
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'NGZ563', ip: '192.168.60.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=xpath, value=//span[text()='Thomas Jones']}
+Session ID: ffdf20ccac413ebd48a7c0874ffe5ee1
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\BEANT~1.SIN\AppData\Local\Temp\scoped_dir4336_4164}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.86, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+in screen shot exception---
+in screen shot exception---
+in exception-----------getTestData
+OSNameFromGenericWindow 7
+.Genrating Report...
+folderPathD:\selenium_framework\trunk\Selenium_framework/TestCases_Report/25Apr/25Apr 15-35-54/
+folder_browser  D:\selenium_framework\trunk\Selenium_framework\TestCases_Report\25Apr\25Apr 15-35-54
+nameOfFile  LoginDploy_1^Login  From  Application with valid pwd.^Login_1_1.txt
+this.testCaseName : LoginDploy_1^Login  From  Application with valid pwd
+myTestCasename : LoginDploy_1^Login  From  Application with valid pwd.^Login_1_1.txt
+failFlag : 1
+in exception------in generateHTMLReportForTestCase
+caseName[Ljava.lang.String;@17fd320
+in exception------in generateHTMLData
+nameOfFile  LoginDploy_1^Login  From  Application with valid pwd.^Login_1_2.txt
+this.testCaseName : LoginDploy_1^Login  From  Application with valid pwd
+myTestCasename : LoginDploy_1^Login  From  Application with valid pwd.^Login_1_2.txt
+failFlag : 1
+in exception------in generateHTMLReportForTestCase
+caseName[Ljava.lang.String;@fde4e6
+in exception------in generateHTMLData
+nameOfFile  LoginDploy_1^Login  From  Application with valid pwd.^Login_1_3.txt
+this.testCaseName : LoginDploy_1^Login  From  Application with valid pwd
+myTestCasename : LoginDploy_1^Login  From  Application with valid pwd.^Login_1_3.txt
+failFlag : 1
+in exception------in generateHTMLReportForTestCase
+caseName[Ljava.lang.String;@bef71f
+in exception------in generateHTMLData
+nameOfFile  LoginDploy_1^Login  From  Application with valid pwd.^Login_1_4.txt
+this.testCaseName : LoginDploy_1^Login  From  Application with valid pwd
+myTestCasename : LoginDploy_1^Login  From  Application with valid pwd.^Login_1_4.txt
+failFlag : 1
+in exception------in generateHTMLReportForTestCase
+caseName[Ljava.lang.String;@1522e40
+in exception------in generateHTMLData
+sendReportByMailFlag from config is:N
+sendReportByMail flag is set as N in config so mail report will not send
+
+Time: 91.089
+
+OK (3 tests)
+

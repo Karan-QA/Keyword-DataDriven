@@ -1,0 +1,33 @@
+JUnit version 4.12
+.2016/04/18 13:08:52
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 0
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Deploy.xls
+TestCase Name----LoginDploy_59
+suitSheet----jxl.read.biff.SheetImpl@56291a
+Executing the TestCase: Metric Tab – Verify is planned value linear check box  Flag : N
+RetryCount : 0
+Step 1 of LoginDploy_59 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_59 Executing
+<--Wait-->
+Step 5 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_59 Executing
+<--Wait-->
+Step 7 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Daily Management']
+in exception-------------------ClickonButtonbyxpath

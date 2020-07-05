@@ -1,0 +1,61 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Text "tjones@abcpaint.com" is entered successfully in "UserName"  :- Pass
+Text "jonesABC!1" is entered successfully in "Password"  :- Pass
+Click on "loginButton"  is successful:- Pass
+Click on "Admin"  is successful:- Pass
+Click on "PortalAdmin"  is successful:- Pass
+Click on "UpdateMetric"  is successful:- Pass
+Text "NetCostTestNew" is entered successfully in "MetricName"  :- Pass
+Item "Cost" is selected in dropdown "MetricType" successfully:- Pass
+Text "To Check the net cost" is entered successfully in "MetricDesc"  :- Pass
+Item "Up" is selected in dropdown "MetricTrend" successfully:- Pass
+Item "currency" is selected in dropdown "MetricMeasureType" successfully:- Pass
+Item "Dollar (US) [$]" is selected in dropdown "MetricUnit" successfully:- Pass
+Click on "AssignedLocation"  is successful:- Pass
+Expected text "Clubs" is matched with actual text "Clubs" successfully:- Pass
+Text "24" is entered successfully in "MetricDuration"  :- Pass
+Text "jo" is entered successfully in "metricOwner"  :- Pass
+Expected text "Jones" is matched with actual text "Jones, Thomas - Clubs" successfully:- Pass
+Item "Week" is selected in dropdown "MetricFrequency" successfully:- Pass
+Click on "AddPlannedValues"  is successful:- Pass
+Text "50" is entered successfully in "PlannedJumpOffValue"  :- Pass
+Click on "PlannedGrid"  is successful:- Pass
+Text "100" is entered successfully in "PlannedValueGrid"  :- Pass
+Click on "AddThreshold"  is successful:- Pass
+Text "40" is entered successfully in "ThresholdValue"  :- Pass
+Click on "Thresholdmetricunit"  is successful:- Pass
+Click on "Thresholdmetricunitdropdown"  is successful:- Pass
+Click on "ThresholdmetricunitNumbers"  is successful:- Pass
+Click on "ThresholdmetricSeverity"  is successful:- Pass
+Click on "ThresholdSeveritydropdown"  is successful:- Pass
+Click on "ThresholdSeverityCritical"  is successful:- Pass
+Click on "AddThreshold"  is successful:- Pass
+Text "30" is entered successfully in "ThresholdValue"  :- Pass
+Click on "Thresholdmetricunit"  is successful:- Pass
+Click on "Thresholdmetricunitdropdown"  is successful:- Pass
+Click on "ThresholdmetricunitNumbers"  is successful:- Pass
+Click on "ThresholdmetricSeverity"  is successful:- Pass
+Click on "ThresholdSeveritydropdown"  is successful:- Pass
+Click on "ThresholdSeverityCaution"  is successful:- Pass
+Click on "AddThreshold"  is successful:- Pass
+Text "10" is entered successfully in "ThresholdValue"  :- Pass
+Click on "Thresholdmetricunit"  is successful:- Pass
+Click on "Thresholdmetricunitdropdown"  is successful:- Pass
+Click on "ThresholdmetricunitNumbers"  is successful:- Pass
+Click on "ThresholdmetricSeverity"  is successful:- Pass
+Click on "ThresholdSeveritydropdown"  is successful:- Pass
+Click on "ThresholdSeverityAcceptableMiss"  is successful:- Pass
+Click on "AddThreshold"  is successful:- Pass
+Text "20" is entered successfully in "ThresholdValue"  :- Pass
+Click on "Thresholdmetricunit"  is successful:- Pass
+Click on "Thresholdmetricunitdropdown"  is successful:- Pass
+Click on "ThresholdmetricunitNumbers"  is successful:- Pass
+Click on "ThresholdmetricSeverity"  is successful:- Pass
+Click on "ThresholdSeveritydropdown"  is successful:- Pass
+Click on "ThresholdSeverityNearMiss"  is successful:- Pass
+Click on "SaveMetric"  is successful:- Pass
+Expected text "NetCostTestNew" is verified successfully:- Pass
+Click on "User"  is successful:- Pass
+Click on "SignOut"  is successful:- Pass
+Browser is closed successfully:- Pass

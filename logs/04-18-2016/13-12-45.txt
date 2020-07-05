@@ -1,0 +1,250 @@
+JUnit version 4.12
+.2016/04/18 13:12:45
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 0
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Deploy.xls
+TestCase Name----LoginDploy_59
+suitSheet----jxl.read.biff.SheetImpl@331dd0
+Executing the TestCase: Metric Tab – Verify is planned value linear check box  Flag : N
+RetryCount : 0
+Step 1 of LoginDploy_59 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_59 Executing
+<--Wait-->
+Step 5 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_59 Executing
+<--Wait-->
+Step 7 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Daily Management']
+Step 8 of LoginDploy_59 Executing
+<--Wait-->
+Step 9 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/Performance']
+Step 10 of LoginDploy_59 Executing
+<--Wait-->
+Step 11 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Update Metric']
+Step 12 of LoginDploy_59 Executing
+<--Wait-->
+Step 13 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/Metric']
+Step 14 of LoginDploy_59 Executing
+<--Wait-->
+Step 15 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/AddMetric?metricID=0']
+Step 16 of LoginDploy_59 Executing
+<--Wait-->
+Step 17 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  txtMetricName
+Step 18 of LoginDploy_59 Executing
+<--Wait-->
+Step 19 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  txtMetricDesc
+Step 20 of LoginDploy_59 Executing
+<--Wait-->
+Step 21 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricType
+Step 22 of LoginDploy_59 Executing
+<--Wait-->
+Step 23 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //select[@id='cbMetricType']/option[@value='1']
+Step 24 of LoginDploy_59 Executing
+<--Wait-->
+Step 25 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  txtMetricDuration
+Step 26 of LoginDploy_59 Executing
+<--Wait-->
+Step 27 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricDurationUnits
+Step 28 of LoginDploy_59 Executing
+<--Wait-->
+Step 29 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //select[@id='cbMetricDurationUnits']/option[text()='Daily']
+Step 30 of LoginDploy_59 Executing
+<--Wait-->
+Step 31 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricMeasureType
+Step 32 of LoginDploy_59 Executing
+<--Wait-->
+Step 33 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //select[@id='cbMetricMeasureType']/option[text()='Time']
+Step 34 of LoginDploy_59 Executing
+<--Wait-->
+Step 35 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricAssignment
+Step 36 of LoginDploy_59 Executing
+<--Wait-->
+Step 37 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //select[@id='cbMetricAssignment']/option[text()='Division']
+Step 38 of LoginDploy_59 Executing
+<--Wait-->
+Step 39 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricUnit
+Step 40 of LoginDploy_59 Executing
+<--Wait-->
+Step 41 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //select[@id='cbMetricUnit']/option[text()='Weekly']
+Step 42 of LoginDploy_59 Executing
+<--Wait-->
+Step 43 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricTrend
+Step 44 of LoginDploy_59 Executing
+<--Wait-->
+Step 45 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //select[@id='cbMetricTrend']/option[text()='Up']
+Step 46 of LoginDploy_59 Executing
+<--Wait-->
+Step 47 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbLocation
+Step 48 of LoginDploy_59 Executing
+<--Wait-->
+Step 49 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //select[@id='cbLocation']/option[text()='Cincinnati']
+Step 50 of LoginDploy_59 Executing
+<--Wait-->
+Step 51 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbmetricOwner
+Step 52 of LoginDploy_59 Executing
+<--Wait-->
+Step 53 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbLevel1
+Step 54 of LoginDploy_59 Executing
+<--Wait-->
+Step 55 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbLevel2
+Step 56 of LoginDploy_59 Executing
+<--Wait-->
+Step 57 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  Details
+Step 58 of LoginDploy_59 Executing
+<--Wait-->
+Step 59 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  txtThresholdValues
+Step 60 of LoginDploy_59 Executing
+<--Wait-->
+Step 61 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbSeverityValue
+Step 62 of LoginDploy_59 Executing
+<--Wait-->
+Step 63 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbThresholdUnitValue
+Step 64 of LoginDploy_59 Executing
+<--Wait-->
+Step 65 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  btnAddThresholdValues
+Step 66 of LoginDploy_59 Executing
+<--Wait-->
+Step 67 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  Threshold
+Step 68 of LoginDploy_59 Executing
+<--Wait-->
+Step 69 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  txtJumpOffValue
+Step 70 of LoginDploy_59 Executing
+<--Wait-->
+Step 71 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  txtPlannedValue
+Step 72 of LoginDploy_59 Executing
+<--Wait-->
+Step 73 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  plannedDateRange
+Step 74 of LoginDploy_59 Executing
+<--Wait-->
+Step 75 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //button[text()='Apply']
+Step 76 of LoginDploy_59 Executing
+<--Wait-->
+Step 77 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  isLinear
+Step 78 of LoginDploy_59 Executing
+<--Wait-->
+Step 79 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  lineardurationValue
+Step 80 of LoginDploy_59 Executing
+<--Wait-->
+Step 81 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricLinearDurationUnits
+Step 82 of LoginDploy_59 Executing
+<--Wait-->
+Step 83 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  btnAddPlannedValues
+Step 84 of LoginDploy_59 Executing
+<--Wait-->
+Step 85 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //input[@type='submit'][@value='Finish']
+Step 86 of LoginDploy_59 Executing
+<--Wait-->
+Step 87 of LoginDploy_59 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[@class='glyphicon glyphicon-off']
+Step 88 of LoginDploy_59 Executing
+driverChromeDriver: chrome on XP (8b3fae6b2e32b882c1310cae5456c9ef)
+OSNameFromGenericWindow 7
+.Genrating Report...
+folderPathD:\selenium_framework\trunk\Selenium_framework/TestCases_Report/18Apr/18Apr 13-12-45/
+folder_browser  D:\selenium_framework\trunk\Selenium_framework\TestCases_Report\18Apr\18Apr 13-12-45
+nameOfFile  LoginDploy_59^Metric Tab – Verify is planned value linear check box .txt
+this.testCaseName : LoginDploy_59^Metric Tab – Verify is planned value linear check box 
+myTestCasename : LoginDploy_59^Metric Tab – Verify is planned value linear check box .txt
+failFlag : 0
+caseName[Ljava.lang.String;@1295ec9
+sendReportByMailFlag from config is:N
+sendReportByMail flag is set as N in config so mail report will not send
+
+Time: 72.889
+
+OK (3 tests)
+

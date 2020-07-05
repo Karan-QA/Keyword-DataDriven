@@ -1,0 +1,11 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Click on "StartYourFreeTrialButton"  is successful:- Pass
+Text "karan2054@osn.com" is entered successfully in "Username"  :- Pass
+Text "Test1234" is entered successfully in "Password"  :- Pass
+Click on "SubScribeWithButton"  is successful:- Pass
+Click on "ConfirmAndBuy"  is successful:- Pass
+Click on "SubScribeButton1"  is successful:- Pass
+Text "Alert2416#" is entered successfully in "GooglePlayPswdTB"  :- Pass
+Click on "GooglePlayVerifyBtn" is not successful:- Fail
+Browser is closed successfully:- Pass

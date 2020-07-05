@@ -1,0 +1,105 @@
+JUnit version 4.12
+.2016/04/25 17:04:48
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework - Copy\Test Cases\Deploy\Deploy.xls
+TestCase Name----LoginDploy_1
+suitSheet----jxl.read.biff.SheetImpl@a4911d
+before finding m
+m found at testcase 1
+m found at testcase DataSheet
+objectId =====================>LoginDploy_1_1
+objectId =====================>LoginDploy_1_2
+objectId =====================>LoginDploy_1_3
+objectId =====================>LoginDploy_1_4
+suitSheet.getRows()=====================>1234
+DataDrivenFlag1 : Y
+DataSheetName : DataSheet
+totalNuberOfTestCaseToBeExecutedInDataSheet : 4
+Executing the TestCase: Login  From  Application with valid pwd. Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_1 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  AppURL
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_2 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  1000
+<--Wait-->
+Step 3 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_3 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  tjones@abcpaint.com
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 4 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_4 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  jonesABC!1
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 5 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_5 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_6 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  1000
+<--Wait-->
+Step 7 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_7 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  Thomas Jones
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Thomas Jones']
+Step 8 of LoginDploy_1 Executing
+Object Id To Be Search : LOGIN_OB_8 SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  //span[@class='glyphicon glyphicon-off']
+Step 9 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  
+driverChromeDriver: chrome on XP (d96e7edd3adf86c94dfc5f52532e4599)
+Step 10 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  AppURL
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 11 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  tjones@abcpaint.com
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 12 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  jonesABC!1
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 13 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  1000
+<--Wait-->
+Step 14 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 15 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  1000
+<--Wait-->
+Step 16 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-question-circle']
+Step 17 of LoginDploy_1 Executing
+Object Id To Be Search :  SubCase To be Search = LoginDploy_1_1 SubCase index  = 1
+Final Data passed  =  
+driverChromeDriver: chrome on XP (7c580ea8c0b4c8f0de7ed3d3699b87dd)

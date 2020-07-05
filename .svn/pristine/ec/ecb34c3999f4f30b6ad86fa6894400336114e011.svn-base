@@ -1,0 +1,14 @@
+BatchRunnerexcel=D:\\selenium_framework\\trunk\\Selenium_framework\\BatchRunner.xls
+CommanPath=D:\\selenium_framework\\trunk\\Selenium_framework\\Test Cases\\Deploy\\
+ObjectRepositry=D:\\selenium_framework\\trunk\\Selenium_framework\\ObjectRepositry\\ObjectRepositry_Deploy.xls
+IEDriverServerPath=D:\\selenium_framework\\trunk\\Selenium_framework\\IEDriverServer_Win32_2.42.0\\IEDriverServer.exe
+ChromeDriverServerPath=D:\\selenium_framework\\trunk\\Selenium_framework\\chromedriver_win32\\chromedriver.exe
+SafariDriverServerPath=D:\\selenium_framework\\trunk\\Selenium_framework\\chromedriver_win32\\chromedriver.exe
+ScreenshotMasterCopyPath=D:\\selenium_framework\\trunk\\Selenium_framework\\OriginalScreenshots\\
+RetryCount=1
+DataDrivenFlag=N
+ScreenshotBaselineCreationFlag=N
+sendReportByMailFlag=N
+RecepientToUser=karan.arora@newgen.co.in
+RecepientCCUser=dinesh-sharma@newgen.co.in
+DataBaseURL=jdbc:postgresql://192.168.60.102:5432/nbsip

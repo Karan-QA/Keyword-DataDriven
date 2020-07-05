@@ -1,0 +1,15 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Text "tjones@abcpaint.com" is entered successfully in "UserName"  :- Pass
+Text "jonesABC!1" is entered successfully in "Password"  :- Pass
+Click on "loginButton"  is successful:- Pass
+Click on "Portal"  is successful:- Pass
+Click on "DailyManagement"  is successful:- Pass
+Click on "Performance"  is successful:- Pass
+Click on "PerformanceUpdateMetric"  is successful:- Pass
+Expected text "NetCostTestNew" is matched with actual text "NetCostTestNew" successfully:- Pass
+Text "60" is entered successfully in "updateActualValue"  :- Pass
+DropDown Field  updateMetricShift is Disabled:- Pass
+Click on "saveUpdate"  is successful:- Pass
+Click on "ButtonYes" is not successful:- Fail
+Browser is closed successfully:- Pass

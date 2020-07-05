@@ -1,0 +1,26 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Text "tjones@abcpaint.com" is entered successfully in "UserName"  :- Pass
+Text "jonesABC!1" is entered successfully in "Password"  :- Pass
+Click on "loginButton"  is successful:- Pass
+Click on "MyDashBoard"  is successful:- Pass
+Click on "AddDashBoard"  is successful:- Pass
+Text "bean" is entered successfully in "DashboardName"  :- Pass
+Text "New Dashboard desc" is entered successfully in "DashboardDescription"  :- Pass
+Click on "IsDefault"  is successful:- Pass
+Click on "DashBoardConfirm"  is successful:- Pass
+Click on "DashBoardSelection"  is successful:- Pass
+Click on "WidgetSelection"  is successful:- Pass
+Expected text "Biggest Bowler Misses" is matched with actual text "Biggest Bowler Misses" successfully:- Pass
+Click on "AddWidget"  is successful:- Pass
+Expected widget "Biggest Bowler Misses" is matched with  "Biggest Bowler Misses" widget successfully:- Pass
+Click on "WidgetSettings"  is successful:- Pass
+Text "500" is entered successfully in "BBMminimumpercMiss"  :- Pass
+Click on "BiggestBowlerMissApplySetting"  is successful:- Pass
+Expected text "500.00" is matched with actual text "583.7" successfully:- Pass
+Click on "myDashboard"  is successful:- Pass
+Expected text "bean" is matched with actual text "bean" in setting successfully:- Pass
+Click on "OkButton"  is successful:- Pass
+Click on "User"  is successful:- Pass
+Click on "SignOut"  is successful:- Pass
+Browser is closed successfully:- Pass

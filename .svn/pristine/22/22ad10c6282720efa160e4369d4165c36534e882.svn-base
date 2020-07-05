@@ -1,0 +1,411 @@
+JUnit version 4.12
+.2016/09/08 16:26:32
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Deploy.xls
+no of test cases : 95
+TestCase Name----LoginDploy_73
+suitSheet----jxl.read.biff.SheetImpl@1dc8ea3
+Executing the TestCase: Verify add and delete Severity Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_73 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_73 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_73 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_73 Executing
+<--Wait-->
+Step 5 of LoginDploy_73 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_73 Executing
+<--Wait-->
+Step 7 of LoginDploy_73 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-desktop']
+Step 8 of LoginDploy_73 Executing
+<--Wait-->
+Step 9 of LoginDploy_73 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/Admin' and text()='Portal Admin']
+Step 10 of LoginDploy_73 Executing
+<--Wait-->
+Step 11 of LoginDploy_73 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='#AdminReasonSeverityCode']
+Step 12 of LoginDploy_73 Executing
+<--Wait-->
+Step 13 of LoginDploy_73 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Add Severity']
+in exception-------------------ClickonButtonbyxpath
+driverChromeDriver: chrome on XP (81842bd589ac5e021bbc2096c7cf8d0c)
+TestCase Name----LoginDploy_88
+suitSheet----jxl.read.biff.SheetImpl@fcaf45
+Executing the TestCase: Verify move to feature of Bowler Watch Widget   Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_88 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  dash_manageDashboard
+Step 6 of LoginDploy_88 Executing
+<--Wait-->
+Step 7 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  kAddDashboard
+Step 8 of LoginDploy_88 Executing
+<--Wait-->
+Step 9 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardName
+Step 10 of LoginDploy_88 Executing
+<--Wait-->
+Step 11 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardDescription
+Step 12 of LoginDploy_88 Executing
+<--Wait-->
+Step 13 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  IsDefault
+Step 14 of LoginDploy_88 Executing
+<--Wait-->
+Step 15 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-save']
+Step 16 of LoginDploy_88 Executing
+<--Wait-->
+Step 17 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='beanNew']
+Step 18 of LoginDploy_88 Executing
+<--Wait-->
+Step 19 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  dash_manageDashboard
+Step 20 of LoginDploy_88 Executing
+<--Wait-->
+Step 21 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  kAddDashboard
+Step 22 of LoginDploy_88 Executing
+<--Wait-->
+Step 23 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardName
+Step 24 of LoginDploy_88 Executing
+<--Wait-->
+Step 25 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardDescription
+Step 26 of LoginDploy_88 Executing
+<--Wait-->
+Step 27 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  IsDefault
+Step 28 of LoginDploy_88 Executing
+<--Wait-->
+Step 29 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-save']
+Step 30 of LoginDploy_88 Executing
+<--Wait-->
+Step 31 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='bean']
+Step 32 of LoginDploy_88 Executing
+<--Wait-->
+Step 33 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  addWidgetFilterClick
+Step 34 of LoginDploy_88 Executing
+<--Wait-->
+Step 35 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='widgetList']/div[2]/table/tbody/tr
+onSite :Bowler Watch
+onSite.trim().equals(item.trim())true
+Step 36 of LoginDploy_88 Executing
+<--Wait-->
+Step 37 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  btnAddWidget
+Step 38 of LoginDploy_88 Executing
+<--Wait-->
+Step 39 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[1]/div/div/button
+Step 40 of LoginDploy_88 Executing
+<--Wait-->
+Step 41 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[1]/div/div/ul/li
+Demo------------false
+Test1------------false
+Test2------------false
+Test3------------false
+beanNew------------true
+Step 42 of LoginDploy_88 Executing
+<--Wait-->
+Step 43 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='beanNew']
+Step 44 of LoginDploy_88 Executing
+<--Wait-->
+Step 45 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id="content_width"]/div/div/div[1]/h3
+widgetAssertion :Bowler Watch
+widgetAssertion.trim().equals(item.trim())true
+item.trim() :Bowler Watch
+Step 46 of LoginDploy_88 Executing
+<--Wait-->
+Step 47 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //li[@id='dash_manageDashboard']
+Step 48 of LoginDploy_88 Executing
+<--Wait-->
+Step 49 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='manageDashboardGrid']/div[2]/table/tbody/tr
+metric text :Demo
+metric text :Test1
+metric text :Test2
+metric text :Test3
+metric text :beanNew
+metric text :bean
+Step 50 of LoginDploy_88 Executing
+<--Wait-->
+Step 51 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //button[text()='OK']
+Step 52 of LoginDploy_88 Executing
+<--Wait-->
+Step 53 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='manageDashboardGrid']/div[2]/table/tbody/tr
+metric text :Demo
+metric text :Test1
+metric text :Test2
+metric text :Test3
+metric text :beanNew
+Step 54 of LoginDploy_88 Executing
+<--Wait-->
+Step 55 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //button[text()='OK']
+Step 56 of LoginDploy_88 Executing
+<--Wait-->
+Step 57 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-user']
+Step 58 of LoginDploy_88 Executing
+<--Wait-->
+Step 59 of LoginDploy_88 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Sign Out']
+Step 60 of LoginDploy_88 Executing
+<--Wait-->
+Step 61 of LoginDploy_88 Executing
+driverChromeDriver: chrome on XP (33f182e1526a16b25bfd3501a312490d)
+TestCase Name----LoginDploy_91
+suitSheet----jxl.read.biff.SheetImpl@129deb9
+Executing the TestCase: Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_91 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  dash_manageDashboard
+Step 6 of LoginDploy_91 Executing
+<--Wait-->
+Step 7 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  kAddDashboard
+Step 8 of LoginDploy_91 Executing
+<--Wait-->
+Step 9 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardName
+Step 10 of LoginDploy_91 Executing
+<--Wait-->
+Step 11 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardDescription
+Step 12 of LoginDploy_91 Executing
+<--Wait-->
+Step 13 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  IsDefault
+Step 14 of LoginDploy_91 Executing
+<--Wait-->
+Step 15 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-save']
+Step 16 of LoginDploy_91 Executing
+<--Wait-->
+Step 17 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='bean']
+Step 18 of LoginDploy_91 Executing
+<--Wait-->
+Step 19 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  addWidgetFilterClick
+Step 20 of LoginDploy_91 Executing
+<--Wait-->
+Step 21 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='widgetList']/div[2]/table/tbody/tr
+onSite :Bowler Watch
+onSite.trim().equals(item.trim())false
+onSite :Bowler List Summary - Future
+onSite.trim().equals(item.trim())false
+onSite :Biggest Bowler Misses
+onSite.trim().equals(item.trim())true
+Step 22 of LoginDploy_91 Executing
+<--Wait-->
+Step 23 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  btnAddWidget
+Step 24 of LoginDploy_91 Executing
+<--Wait-->
+Step 25 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id="content_width"]/div/div/div[1]/h3
+widgetAssertion :Biggest Bowler Misses
+widgetAssertion.trim().equals(item.trim())true
+item.trim() :Biggest Bowler Misses
+Step 26 of LoginDploy_91 Executing
+<--Wait-->
+Step 27 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div/div[2]/div/ul/li[3]
+Step 28 of LoginDploy_91 Executing
+<--Wait-->
+Step 29 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+
+Step 30 of LoginDploy_91 Executing
+<--Wait-->
+Step 31 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/fieldset/a[text()='Select All']
+Step 32 of LoginDploy_91 Executing
+<--Wait-->
+Step 33 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div/div[2]/div/div/div[3]/a[text()='Apply Settings']
+Step 34 of LoginDploy_91 Executing
+<--Wait-->
+Step 35 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div/div[2]/div/div/div[1]/div/div[2]/table/tbody/tr
+onSite :610.0table value :500.0
+value matchedLos Angeles
+onSite :583.7table value :500.0
+value matchedTucson
+Step 36 of LoginDploy_91 Executing
+<--Wait-->
+Step 37 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //li[@id='dash_manageDashboard']
+Step 38 of LoginDploy_91 Executing
+<--Wait-->
+Step 39 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='manageDashboardGrid']/div[2]/table/tbody/tr
+metric text :Demo
+metric text :Test1
+metric text :Test2
+metric text :Test3
+metric text :bean
+Step 40 of LoginDploy_91 Executing
+<--Wait-->
+Step 41 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //button[text()='OK']
+Step 42 of LoginDploy_91 Executing
+<--Wait-->
+Step 43 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-user']
+Step 44 of LoginDploy_91 Executing
+<--Wait-->
+Step 45 of LoginDploy_91 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Sign Out']
+Step 46 of LoginDploy_91 Executing
+<--Wait-->
+Step 47 of LoginDploy_91 Executing
+driverChromeDriver: chrome on XP (c5d571ae7f8982d01633936cfbb77e3e)
+OSNameFromGenericWindow 7
+.Genrating Report...
+folderPathD:\selenium_framework\trunk\Selenium_framework/TestCases_Report/08Sep/08Sep 16-26-32/
+folder_browser  D:\selenium_framework\trunk\Selenium_framework\TestCases_Report\08Sep\08Sep 16-26-32
+4
+nameOfFile  LoginDploy_73^Verify add and delete Severity.txt
+this.testCaseName : LoginDploy_73^Verify add and delete Severity
+myTestCasename : LoginDploy_73^Verify add and delete Severity.txt
+failFlag : 1
+caseName[Ljava.lang.String;@bd98b2
+4
+nameOfFile  LoginDploy_88^Verify move to feature of Bowler Watch Widget  .txt
+this.testCaseName : LoginDploy_88^Verify move to feature of Bowler Watch Widget  
+myTestCasename : LoginDploy_88^Verify move to feature of Bowler Watch Widget  .txt
+failFlag : 0
+caseName[Ljava.lang.String;@17405e4
+4
+nameOfFile  LoginDploy_91^Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option.txt
+this.testCaseName : LoginDploy_91^Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option
+myTestCasename : LoginDploy_91^Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option.txt
+failFlag : 0
+caseName[Ljava.lang.String;@2ec5b6
+4
+sendReportByMailFlag from config is:N
+sendReportByMail flag is set as N in config so mail report will not send
+
+Time: 175.777
+
+OK (3 tests)
+

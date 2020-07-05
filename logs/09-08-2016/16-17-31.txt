@@ -1,0 +1,17 @@
+JUnit version 4.12
+.2016/09/08 16:17:31
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Deploy.xls
+no of test cases : 95
+TestCase Name----LoginDploy_73
+suitSheet----jxl.read.biff.SheetImpl@1187984
+Executing the TestCase: Verify add and delete Severity Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_73 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome

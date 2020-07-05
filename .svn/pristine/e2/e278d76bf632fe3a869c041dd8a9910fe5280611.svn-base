@@ -1,0 +1,785 @@
+JUnit version 4.12
+.2016/07/14 15:09:33
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Deploy.xls
+no of test cases : 61
+TestCase Name----LoginDploy_1
+suitSheet----jxl.read.biff.SheetImpl@c24ae7
+Executing the TestCase: Login  From  Application with valid pwd. Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_1 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_1 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_1 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_1 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_1 Executing
+<--Wait-->
+Step 6 of LoginDploy_1 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Thomas Jones']
+Step 7 of LoginDploy_1 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[@class='glyphicon glyphicon-off']
+Step 8 of LoginDploy_1 Executing
+driverChromeDriver: chrome on XP (23761de46ddd4b78384af583d865999e)
+TestCase Name----LoginDploy_2
+suitSheet----jxl.read.biff.SheetImpl@189c040
+Executing the TestCase: Verify that all the tabs are available or not Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_2 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_2 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_2 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_2 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_2 Executing
+driverChromeDriver: chrome on XP (d0c591c5ee6ae98130d5072af59af502)
+TestCase Name----basic
+suitSheet----jxl.read.biff.SheetImpl@1c2da48
+Executing the TestCase: basic Flag : Y
+RetryCount : 1
+Step 1 of basic Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+in exception-----------typeTextByIDno such session
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd', time: '2015-10-09 19:59:12'
+System info: host: 'NGZ563', ip: '192.168.60.87', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=id, value=ctl00_ContentPlaceHolder1_loginForm_UserName}
+Session ID: d0c591c5ee6ae98130d5072af59af502
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\BEANT~1.SIN\AppData\Local\Temp\scoped_dir5164_9024}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=46.0.2490.86, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+in screen shot exception---
+in screen shot exception---
+in exception-----------getTestData
+TestCase Name----LoginDploy_4
+suitSheet----jxl.read.biff.SheetImpl@11a72fd
+Executing the TestCase:  Flag : N
+RetryCount : 1
+Step 1 of LoginDploy_4 Executing
+in exception-----------getTestData
+TestCase Name----LoginDploy_5
+suitSheet----jxl.read.biff.SheetImpl@3bb813
+Executing the TestCase: Verify the News Icon Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_5 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_5 Executing
+<--Wait-->
+Step 6 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-newspaper-o']
+Step 7 of LoginDploy_5 Executing
+<--Wait-->
+Step 8 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[@class='glyphicon glyphicon-off']
+Step 9 of LoginDploy_5 Executing
+driverChromeDriver: chrome on XP (79fc7fa60c4a96f98ed8050f08052290)
+TestCase Name----LoginDploy_6
+suitSheet----jxl.read.biff.SheetImpl@fa6144
+Executing the TestCase: Verify the favourite Icon Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_6 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_6 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_6 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_6 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_6 Executing
+<--Wait-->
+Step 6 of LoginDploy_6 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-star']
+Step 7 of LoginDploy_6 Executing
+<--Wait-->
+Step 8 of LoginDploy_6 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[@class='glyphicon glyphicon-off']
+Step 9 of LoginDploy_6 Executing
+driverChromeDriver: chrome on XP (9b3a3b88af580a180caba5a01c4b91ae)
+TestCase Name----LoginDploy_7
+suitSheet----jxl.read.biff.SheetImpl@171ee01
+Executing the TestCase: Verify the settings icon Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_7 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_7 Executing
+<--Wait-->
+Step 5 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_7 Executing
+<--Wait-->
+Step 7 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  right_sidebar_toggle
+Step 8 of LoginDploy_7 Executing
+<--Wait-->
+Step 9 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='#control-sidebar-theme-demo-options-tab']
+Step 10 of LoginDploy_7 Executing
+<--Wait-->
+Step 11 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //input[@data-layout='fixed']
+Step 12 of LoginDploy_7 Executing
+<--Wait-->
+Step 13 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //input[@data-layout='layout-boxed']
+Step 14 of LoginDploy_7 Executing
+<--Wait-->
+Step 15 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //input[@data-controlsidebar='control-sidebar-open']
+Step 16 of LoginDploy_7 Executing
+<--Wait-->
+Step 17 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //input[@data-sidebarskin='toggle']
+Step 18 of LoginDploy_7 Executing
+<--Wait-->
+Step 19 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@data-skin='skin-blue']
+Step 20 of LoginDploy_7 Executing
+<--Wait-->
+Step 21 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@data-skin='skin-black']
+Step 22 of LoginDploy_7 Executing
+<--Wait-->
+Step 23 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[@class='glyphicon glyphicon-off']
+Step 24 of LoginDploy_7 Executing
+driverChromeDriver: chrome on XP (08396163c682991c2455c3f8cc73016b)
+TestCase Name----LoginDploy_8
+suitSheet----jxl.read.biff.SheetImpl@10de4ee
+Executing the TestCase: collaspe of right and left navigation bar Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_8 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_8 Executing
+<--Wait-->
+Step 6 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  right_sidebar_toggle
+Step 7 of LoginDploy_8 Executing
+<--Wait-->
+Step 8 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  right_sidebar_toggle
+Step 9 of LoginDploy_8 Executing
+<--Wait-->
+Step 10 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@class='sidebar-toggle']
+Step 11 of LoginDploy_8 Executing
+<--Wait-->
+Step 12 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@class='sidebar-toggle']
+Step 13 of LoginDploy_8 Executing
+<--Wait-->
+Step 14 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[@class='glyphicon glyphicon-off']
+Step 15 of LoginDploy_8 Executing
+driverChromeDriver: chrome on XP (5efa286143a5eb2c5d19dafdeab524c5)
+TestCase Name----LoginDploy_9
+suitSheet----jxl.read.biff.SheetImpl@133f513
+Executing the TestCase: Verify the Admin Icon and logout Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_9 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_9 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_9 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_9 Executing
+<--Wait-->
+Step 5 of LoginDploy_9 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_9 Executing
+<--Wait-->
+Step 7 of LoginDploy_9 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-users']
+in exception-------------------ClickonButtonbyxpath
+driverChromeDriver: chrome on XP (dae878b72a60065a66c755f6f04f4cb1)
+TestCase Name----LoginDploy_10
+suitSheet----jxl.read.biff.SheetImpl@109b5ca
+Executing the TestCase: Verify the Help Icon Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_10 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_10 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_10 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_10 Executing
+<--Wait-->
+Step 5 of LoginDploy_10 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_10 Executing
+<--Wait-->
+Step 7 of LoginDploy_10 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[contains(text(),'Help')]
+Step 8 of LoginDploy_10 Executing
+driverChromeDriver: chrome on XP (e064af2fa14b36d5be03bd901f78a047)
+TestCase Name----LoginDploy_11
+suitSheet----jxl.read.biff.SheetImpl@431425
+Executing the TestCase: Verify the  Terms & condition link Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_11 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_11 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_11 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_11 Executing
+<--Wait-->
+Step 5 of LoginDploy_11 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_11 Executing
+<--Wait-->
+Step 7 of LoginDploy_11 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Terms & Conditions']
+in exception-------------------ClickonButtonbyxpath
+in exception-----------getTestData
+TestCase Name----LoginDploy_12
+suitSheet----jxl.read.biff.SheetImpl@1461578
+Executing the TestCase: Verify the Privacy Link Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_12 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_12 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_12 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_12 Executing
+<--Wait-->
+Step 5 of LoginDploy_12 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_12 Executing
+<--Wait-->
+Step 7 of LoginDploy_12 Executing
+entered repositry------------
+driverChromeDriver: chrome on XP (b32d3b693eb72664856859428b4a2a11)
+Step 8 of LoginDploy_12 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 9 of LoginDploy_12 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 10 of LoginDploy_12 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 11 of LoginDploy_12 Executing
+<--Wait-->
+Step 12 of LoginDploy_12 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 13 of LoginDploy_12 Executing
+<--Wait-->
+Step 14 of LoginDploy_12 Executing
+entered repositry------------
+driverChromeDriver: chrome on XP (8a090b5456c5a789533b0980408bb5a2)
+TestCase Name----LoginDploy_13
+suitSheet----jxl.read.biff.SheetImpl@715560
+Executing the TestCase: Verify the Contact us Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_13 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_13 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_13 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_13 Executing
+<--Wait-->
+Step 5 of LoginDploy_13 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_13 Executing
+<--Wait-->
+Step 7 of LoginDploy_13 Executing
+entered repositry------------
+driverChromeDriver: chrome on XP (5d648dbfc96f0809d5c339bacc1e468c)
+Step 8 of LoginDploy_13 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 9 of LoginDploy_13 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 10 of LoginDploy_13 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 11 of LoginDploy_13 Executing
+<--Wait-->
+Step 12 of LoginDploy_13 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 13 of LoginDploy_13 Executing
+<--Wait-->
+Step 14 of LoginDploy_13 Executing
+entered repositry------------
+driverChromeDriver: chrome on XP (de90adddf24561a6d6d8183a82ce8733)
+TestCase Name----LoginDploy_14
+suitSheet----jxl.read.biff.SheetImpl@348aac
+Executing the TestCase: Verify the Portal Dropdown Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_14 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_14 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_14 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_14 Executing
+<--Wait-->
+Step 5 of LoginDploy_14 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_14 Executing
+<--Wait-->
+Step 7 of LoginDploy_14 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Portal']
+Step 8 of LoginDploy_14 Executing
+driverChromeDriver: chrome on XP (38932dbba7fa3bb4f64f737cd161e85b)
+TestCase Name----LoginDploy_15
+suitSheet----jxl.read.biff.SheetImpl@13b7b98
+Executing the TestCase: Verify the Verify Alignment Tab and logout Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_15 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_15 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_15 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_15 Executing
+<--Wait-->
+Step 5 of LoginDploy_15 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_15 Executing
+<--Wait-->
+Step 7 of LoginDploy_15 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Alignment']
+Step 8 of LoginDploy_15 Executing
+<--Wait-->
+Step 9 of LoginDploy_15 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_lnkProfLogout
+Step 10 of LoginDploy_15 Executing
+<--Wait-->
+Step 11 of LoginDploy_15 Executing
+driverChromeDriver: chrome on XP (aa91501f1ee53d9c8a048cb67cf2a886)
+TestCase Name----LoginDploy_16
+suitSheet----jxl.read.biff.SheetImpl@995b29
+Executing the TestCase: Verify  Analytics Tab and logout Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_16 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_16 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_16 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_16 Executing
+<--Wait-->
+Step 5 of LoginDploy_16 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_16 Executing
+<--Wait-->
+Step 7 of LoginDploy_16 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Analytics']
+Step 8 of LoginDploy_16 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_lnkProfLogout
+Step 9 of LoginDploy_16 Executing
+<--Wait-->
+Step 10 of LoginDploy_16 Executing
+driverChromeDriver: chrome on XP (45f58ed501815190bde4133df87ae228)
+TestCase Name----LoginDploy_17
+suitSheet----jxl.read.biff.SheetImpl@61db97
+Executing the TestCase: Verify KPI Tab  and logout Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_17 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_17 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_17 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_17 Executing
+<--Wait-->
+Step 5 of LoginDploy_17 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_17 Executing
+<--Wait-->
+Step 7 of LoginDploy_17 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' KPI']
+Step 8 of LoginDploy_17 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_lnkProfLogout
+Step 9 of LoginDploy_17 Executing
+<--Wait-->
+Step 10 of LoginDploy_17 Executing
+driverChromeDriver: chrome on XP (a914e5a60be34255cff549de3535179e)
+TestCase Name----LoginDploy_18
+suitSheet----jxl.read.biff.SheetImpl@e018a
+Executing the TestCase: Verify Policy Deployment Tab and logout Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_18 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_18 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_18 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_18 Executing
+<--Wait-->
+Step 5 of LoginDploy_18 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_18 Executing
+<--Wait-->
+Step 7 of LoginDploy_18 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Policy Deployment']
+Step 8 of LoginDploy_18 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_lnkProfLogout
+Step 9 of LoginDploy_18 Executing
+<--Wait-->
+Step 10 of LoginDploy_18 Executing
+driverChromeDriver: chrome on XP (428c130f2dc571af7abc10e246ae8bce)
+TestCase Name----LoginDploy_19
+suitSheet----jxl.read.biff.SheetImpl@1d24038
+Executing the TestCase: Verify  Knowledge Share Tab  Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_19 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_19 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_19 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_19 Executing
+<--Wait-->
+Step 5 of LoginDploy_19 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_19 Executing
+<--Wait-->
+Step 7 of LoginDploy_19 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Knowledge Share']
+Step 8 of LoginDploy_19 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_lnkProfLogout
+Step 9 of LoginDploy_19 Executing
+<--Wait-->
+Step 10 of LoginDploy_19 Executing
+driverChromeDriver: chrome on XP (03d849080b297557a22e952aa60ae5ee)
+TestCase Name----LoginDploy_20
+suitSheet----jxl.read.biff.SheetImpl@879541
+Executing the TestCase: Verify Daily Management & Heat Map Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_20 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_20 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_20 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_20 Executing
+<--Wait-->
+Step 5 of LoginDploy_20 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_20 Executing
+<--Wait-->
+Step 7 of LoginDploy_20 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Daily Management']
+Step 8 of LoginDploy_20 Executing
+<--Wait-->
+Step 9 of LoginDploy_20 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/Performance']
+Step 10 of LoginDploy_20 Executing
+<--Wait-->
+Step 11 of LoginDploy_20 Executing
+entered repositry------------
+ORproperties--------------  ;  //h4[text()='USA']
+in exception-------------------ClickonButtonbyxpath
+driverChromeDriver: chrome on XP (90bd5f7c8b1408f11a58f5bef0996b71)
+OSNameFromGenericWindow 7
+.Genrating Report...
+folderPathD:\selenium_framework\trunk\Selenium_framework/TestCases_Report/14Jul/14Jul 15-09-33/
+folder_browser  D:\selenium_framework\trunk\Selenium_framework\TestCases_Report\14Jul\14Jul 15-09-33
+21
+nameOfFile  basic^basic.txt
+this.testCaseName : basic^basic
+myTestCasename : basic^basic.txt
+failFlag : 1
+caseName[Ljava.lang.String;@12bbffd
+21
+nameOfFile  LoginDploy_10^Verify the Help Icon.txt
+this.testCaseName : LoginDploy_10^Verify the Help Icon
+myTestCasename : LoginDploy_10^Verify the Help Icon.txt
+failFlag : 0
+caseName[Ljava.lang.String;@1497eb8
+21
+nameOfFile  LoginDploy_11^Verify the  Terms & condition link.txt
+this.testCaseName : LoginDploy_11^Verify the  Terms & condition link
+myTestCasename : LoginDploy_11^Verify the  Terms & condition link.txt
+failFlag : 1
+caseName[Ljava.lang.String;@1e879e
+21
+nameOfFile  LoginDploy_12^Verify the Privacy Link.txt
+this.testCaseName : LoginDploy_12^Verify the Privacy Link
+myTestCasename : LoginDploy_12^Verify the Privacy Link.txt
+failFlag : 1
+caseName[Ljava.lang.String;@59d3ae
+21
+nameOfFile  LoginDploy_13^Verify the Contact us.txt
+this.testCaseName : LoginDploy_13^Verify the Contact us
+myTestCasename : LoginDploy_13^Verify the Contact us.txt
+failFlag : 1
+caseName[Ljava.lang.String;@158530c
+21
+nameOfFile  LoginDploy_14^Verify the Portal Dropdown.txt
+this.testCaseName : LoginDploy_14^Verify the Portal Dropdown
+myTestCasename : LoginDploy_14^Verify the Portal Dropdown.txt
+failFlag : 0
+caseName[Ljava.lang.String;@1b4607f
+21
+nameOfFile  LoginDploy_15^Verify the Verify Alignment Tab and logout.txt
+this.testCaseName : LoginDploy_15^Verify the Verify Alignment Tab and logout
+myTestCasename : LoginDploy_15^Verify the Verify Alignment Tab and logout.txt
+failFlag : 0
+caseName[Ljava.lang.String;@12b63f6
+21
+nameOfFile  LoginDploy_16^Verify  Analytics Tab and logout.txt
+this.testCaseName : LoginDploy_16^Verify  Analytics Tab and logout
+myTestCasename : LoginDploy_16^Verify  Analytics Tab and logout.txt
+failFlag : 0
+caseName[Ljava.lang.String;@1afb02d
+21
+nameOfFile  LoginDploy_17^Verify KPI Tab  and logout.txt
+this.testCaseName : LoginDploy_17^Verify KPI Tab  and logout
+myTestCasename : LoginDploy_17^Verify KPI Tab  and logout.txt
+failFlag : 0
+caseName[Ljava.lang.String;@1579bd8
+21
+nameOfFile  LoginDploy_18^Verify Policy Deployment Tab and logout.txt
+this.testCaseName : LoginDploy_18^Verify Policy Deployment Tab and logout
+myTestCasename : LoginDploy_18^Verify Policy Deployment Tab and logout.txt
+failFlag : 0
+caseName[Ljava.lang.String;@b8b6e9
+21
+nameOfFile  LoginDploy_19^Verify  Knowledge Share Tab .txt
+this.testCaseName : LoginDploy_19^Verify  Knowledge Share Tab 
+myTestCasename : LoginDploy_19^Verify  Knowledge Share Tab .txt
+failFlag : 0
+caseName[Ljava.lang.String;@f08fe1
+21
+nameOfFile  LoginDploy_1^Login  From  Application with valid pwd..txt
+this.testCaseName : LoginDploy_1^Login  From  Application with valid pwd
+myTestCasename : LoginDploy_1^Login  From  Application with valid pwd..txt
+failFlag : 0
+caseName[Ljava.lang.String;@17639c8
+21
+nameOfFile  LoginDploy_20^Verify Daily Management & Heat Map.txt
+this.testCaseName : LoginDploy_20^Verify Daily Management & Heat Map
+myTestCasename : LoginDploy_20^Verify Daily Management & Heat Map.txt
+failFlag : 1
+caseName[Ljava.lang.String;@cb8fc2
+21
+nameOfFile  LoginDploy_2^Verify that all the tabs are available or not.txt
+this.testCaseName : LoginDploy_2^Verify that all the tabs are available or not
+myTestCasename : LoginDploy_2^Verify that all the tabs are available or not.txt
+failFlag : 1
+caseName[Ljava.lang.String;@4b3a2d
+21
+nameOfFile  LoginDploy_4^.txt
+this.testCaseName : LoginDploy_4^
+myTestCasename : LoginDploy_4^.txt
+failFlag : 0
+in exception------in generateHTMLReportForTestCase
+caseName[Ljava.lang.String;@d86395
+21
+nameOfFile  LoginDploy_5^Verify the News Icon.txt
+this.testCaseName : LoginDploy_5^Verify the News Icon
+myTestCasename : LoginDploy_5^Verify the News Icon.txt
+failFlag : 0
+caseName[Ljava.lang.String;@71e64d
+21
+nameOfFile  LoginDploy_6^Verify the favourite Icon.txt
+this.testCaseName : LoginDploy_6^Verify the favourite Icon
+myTestCasename : LoginDploy_6^Verify the favourite Icon.txt
+failFlag : 0
+caseName[Ljava.lang.String;@1c6ffd3
+21
+nameOfFile  LoginDploy_7^Verify the settings icon.txt
+this.testCaseName : LoginDploy_7^Verify the settings icon
+myTestCasename : LoginDploy_7^Verify the settings icon.txt
+failFlag : 0
+caseName[Ljava.lang.String;@1c5a4b7
+21
+nameOfFile  LoginDploy_8^collaspe of right and left navigation bar.txt
+this.testCaseName : LoginDploy_8^collaspe of right and left navigation bar
+myTestCasename : LoginDploy_8^collaspe of right and left navigation bar.txt
+failFlag : 0
+caseName[Ljava.lang.String;@c11e94
+21
+nameOfFile  LoginDploy_9^Verify the Admin Icon and logout.txt
+this.testCaseName : LoginDploy_9^Verify the Admin Icon and logout
+myTestCasename : LoginDploy_9^Verify the Admin Icon and logout.txt
+failFlag : 1
+caseName[Ljava.lang.String;@be902a
+21
+sendReportByMailFlag from config is:N
+sendReportByMail flag is set as N in config so mail report will not send
+
+Time: 876.976
+
+OK (3 tests)
+

@@ -1,0 +1,5 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Click on "StartYourFreeTrialButton"  is successful:- Pass
+Terminating test case typeTextByIDWebAndroid stepAction does not exits in Framework:- Fail
+Browser is closed successfully:- Pass

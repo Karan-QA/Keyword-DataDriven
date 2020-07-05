@@ -1,0 +1,50 @@
+JUnit version 4.12
+.2016/09/16 15:20:02
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Dploy_demo.xls
+no of test cases : 9
+TestCase Name----LoginDploy_5
+suitSheet----jxl.read.biff.SheetImpl@4d2125
+Executing the TestCase: Verify miss result of metric  Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_5 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_5 Executing
+<--Wait-->
+Step 5 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_5 Executing
+<--Wait-->
+Step 7 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Portal']
+Step 8 of LoginDploy_5 Executing
+<--Wait-->
+Step 9 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Daily Management']
+Step 10 of LoginDploy_5 Executing
+<--Wait-->
+Step 11 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/Performance']
+Step 12 of LoginDploy_5 Executing
+<--Wait-->
+Step 13 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  .//*[@id='performanceTab']/li[2]/a
+in exception-------------------ClickonButtonbyxpath
+driverChromeDriver: chrome on XP (ab9e42fa2e6abaf1be553b0d947e1e87)

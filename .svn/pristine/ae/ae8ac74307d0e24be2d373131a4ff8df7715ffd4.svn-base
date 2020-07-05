@@ -1,0 +1,17 @@
+JUnit version 4.12
+.2016/09/28 15:25:00
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Dploy_demo.xls
+no of test cases : 9
+TestCase Name----LoginDploy_5
+suitSheet----jxl.read.biff.SheetImpl@1bb41d7
+Executing the TestCase: Verify miss result of metric  Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_5 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Firefox

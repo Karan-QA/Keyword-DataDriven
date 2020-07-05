@@ -1,0 +1,19 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Click on "StartYourFreeTrialButton"  is successful:- Pass
+Text "karan2008@osn.com" is entered successfully in "Username"  :- Pass
+Text "Test1234" is entered successfully in "Password"  :- Pass
+Click on "SubScribeWithButton"  is successful:- Pass
+Click on "ConfirmAndBuy"  is successful:- Pass
+ORvariableName :SubscribeButton does'nt exists in ORsheet :- Fail
+Browser is closed successfully:- Pass
+Click on "SubscribeButton" is not successful:- Fail
+Browser is closed successfully:- Pass
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Click on "StartYourFreeTrialButton"  is successful:- Pass
+Text "karan2008@osn.com" is entered successfully in "Username"  :- Pass
+Text "Test1234" is entered successfully in "Password"  :- Pass
+Click on "SubScribeWithButton"  is successful:- Pass
+Click on "ConfirmAndBuy" is not successful:- Fail
+Browser is closed successfully:- Pass

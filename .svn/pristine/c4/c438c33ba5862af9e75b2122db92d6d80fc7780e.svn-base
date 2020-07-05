@@ -1,0 +1,34 @@
+sentinel :- 
+Browser "AppURL" is launched successfully:- Pass
+Text "tjones@abcpaint.com" is entered successfully in "UserName"  :- Pass
+Text "jonesABC!1" is entered successfully in "Password"  :- Pass
+Click on "loginButton"  is successful:- Pass
+Click on "MyDashBoard"  is successful:- Pass
+Click on "AddDashBoard"  is successful:- Pass
+Text "beanNew" is entered successfully in "DashboardName"  :- Pass
+Text "New Dashboard desc" is entered successfully in "DashboardDescription"  :- Pass
+Click on "IsDefault"  is successful:- Pass
+Click on "DashBoardConfirm"  is successful:- Pass
+Click on "DashBoardSelectionDemo"  is successful:- Pass
+Click on "MyDashBoard"  is successful:- Pass
+Click on "AddDashBoard"  is successful:- Pass
+Text "bean" is entered successfully in "DashboardName"  :- Pass
+Text "New Dashboard desc" is entered successfully in "DashboardDescription"  :- Pass
+Click on "IsDefault"  is successful:- Pass
+Click on "DashBoardConfirm"  is successful:- Pass
+Click on "DashBoardSelection"  is successful:- Pass
+Click on "WidgetSelection"  is successful:- Pass
+Expected text "Bowler Watch" is matched with actual text "Bowler Watch" successfully:- Pass
+Click on "AddWidget"  is successful:- Pass
+Click on "moveWidget"  is successful:- Pass
+Expected text "beanNew" is matched with actual text "beanNew" successfully:- Pass
+Click on "DashBoardSelectionDemo"  is successful:- Pass
+Expected widget "Bowler Watch" is matched with  "Bowler Watch" widget successfully:- Pass
+Click on "myDashboard"  is successful:- Pass
+Expected text "bean" is matched with actual text "bean" in setting successfully:- Pass
+Click on "OkButton"  is successful:- Pass
+Expected text "beanNew" is matched with actual text "beanNew" in setting successfully:- Pass
+Click on "OkButton"  is successful:- Pass
+Click on "User"  is successful:- Pass
+Click on "SignOut"  is successful:- Pass
+Browser is closed successfully:- Pass

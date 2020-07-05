@@ -1,0 +1,17 @@
+JUnit version 4.12
+.2016/09/29 15:30:00
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Dploy_demo.xls
+no of test cases : 9
+TestCase Name----LoginDploy_7
+suitSheet----jxl.read.biff.SheetImpl@4d2125
+Executing the TestCase: Verify move to feature of Bowler Watch Widget   Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_7 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome

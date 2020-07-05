@@ -1,0 +1,933 @@
+JUnit version 4.12
+.2016/09/21 15:35:00
+Already deleted.
+OSNameFromGenericWindow 7
+RetryCount : 1
+.suit Name----Deploy
+suitExcelPath----D:\selenium_framework\trunk\Selenium_framework\Test Cases\Deploy\Dploy_demo.xls
+no of test cases : 9
+TestCase Name----LoginDploy_3
+suitSheet----jxl.read.biff.SheetImpl@1bb41d7
+Executing the TestCase: Verify metric in Metric Selection Grids Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_3 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_3 Executing
+<--Wait-->
+Step 5 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_3 Executing
+<--Wait-->
+Step 7 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-desktop']
+Step 8 of LoginDploy_3 Executing
+<--Wait-->
+Step 9 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/Admin' and text()='Portal Admin']
+Step 10 of LoginDploy_3 Executing
+<--Wait-->
+Step 11 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  addMetric
+Step 12 of LoginDploy_3 Executing
+<--Wait-->
+Step 13 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  txtMetricName
+Step 14 of LoginDploy_3 Executing
+<--Wait-->
+Step 15 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricType
+-- Select --
+Safety
+Quality
+Delivery
+Cost
+Manufacture
+Services
+Transport
+Attribute---true
+entered repositry------------
+ORproperties--------------  ;  cbMetricType
+Step 16 of LoginDploy_3 Executing
+<--Wait-->
+Step 17 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  txtMetricDesc
+Step 18 of LoginDploy_3 Executing
+<--Wait-->
+Step 19 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricTrend
+Up
+Down
+Attribute---true
+entered repositry------------
+ORproperties--------------  ;  cbMetricTrend
+Step 20 of LoginDploy_3 Executing
+<--Wait-->
+Step 21 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricMeasureType
+-- Select --
+currency
+distance
+energy
+heat
+length
+ratio
+time
+unit
+volume
+weight
+Attribute---true
+entered repositry------------
+ORproperties--------------  ;  cbMetricMeasureType
+Step 22 of LoginDploy_3 Executing
+<--Wait-->
+Step 23 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  cbMetricUnit
+-- Select --
+Dollar (US) [$]
+Pound [£]
+Euro [€]
+Yuan CNY [ CNY]
+Yen [ JPY]
+Dollar (CAN) [C$]
+Dollars (Thousands) [$M]
+Dollars (Millions) [$MM]
+Rupees [Rs]
+lakhs [lakhs]
+Euros (Millions) [ €MM]
+Euros (Thousands) [ €M]
+Pounds (Millions) [ £MM]
+Pounds (Thousands) [ £K]
+Dollars (Millions) [$M]
+Dollars (Thousands) [$K]
+Euros (Millions) [€M]
+Euros (Thousands) [€K]
+Dollars (Billions) [$B]
+Swiss Franc [ F]
+Swiss Franc (Thousands) [ FK]
+Swiss Franc (Millions) [ FM]
+Pounds (Millions) [ £M]
+Turkish lira [ TL]
+Turkish lira (Thousands) [ TLK]
+Hong Kong Dollar [ HKD]
+Yuan RMB [ RMB]
+Swedish kronor (kilo) [ kSEK]
+Peso (Thousands) [$K]
+Australian Dollar (Thousands) [$K]
+Won (Thousands) [?K]
+Real (Thousands) [R$K]
+Rand (Thousands) [RK]
+Indonesian Rupiah [Rp]
+Hungarian Forint [Ft]
+Hungarian Forint (Millions) [M Ft]
+Russian Rubles (Thousands) [ RUB(K)]
+Yuan RMB (Millions) [ RMB M]
+Attribute---true
+entered repositry------------
+ORproperties--------------  ;  cbMetricUnit
+Step 24 of LoginDploy_3 Executing
+<--Wait-->
+Step 25 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  lblSelectedNodeAddMetric
+Step 26 of LoginDploy_3 Executing
+<--Wait-->
+Step 27 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  .//*[@id='treeview-assigned-to']/div/div[1]/ul/li
+openroot :null
+in exceptionClickonlinkbyxpath==org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"./div/span[2]"}
+  (Session info: chrome=53.0.2785.101)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'NGZ563', ip: '192.168.60.87', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=xpath, value=./div/span[2]}
+Session ID: 382bc4a12f0188ad2cad0178a08a2b02
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\BEANT~1.SIN\AppData\Local\Temp\scoped_dir10644_25628}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.101, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+Step 28 of LoginDploy_3 Executing
+<--Wait-->
+Step 29 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  txtMetricDuration
+Step 30 of LoginDploy_3 Executing
+<--Wait-->
+Step 31 of LoginDploy_3 Executing
+entered repositry------------
+ORproperties--------------  ;  cbmetricOwner
+in exception-----------typeTextByIDinvalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=53.0.2785.101)
+  (Driver info: chromedriver=2.20.353145 (343b531d31eeb933ec778dbcf7081628a1396067),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: 'NGZ563', ip: '192.168.60.87', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_45'
+Session ID: 382bc4a12f0188ad2cad0178a08a2b02
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\BEANT~1.SIN\AppData\Local\Temp\scoped_dir10644_25628}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.101, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+driverChromeDriver: chrome on XP (382bc4a12f0188ad2cad0178a08a2b02)
+TestCase Name----LoginDploy_5
+suitSheet----jxl.read.biff.SheetImpl@1c2821b
+Executing the TestCase: Verify miss result of metric  Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_5 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_5 Executing
+<--Wait-->
+Step 5 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 6 of LoginDploy_5 Executing
+<--Wait-->
+Step 7 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()='Portal']
+Step 8 of LoginDploy_5 Executing
+<--Wait-->
+Step 9 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //span[text()=' Daily Management']
+Step 10 of LoginDploy_5 Executing
+<--Wait-->
+Step 11 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='/Performance']
+Step 12 of LoginDploy_5 Executing
+<--Wait-->
+Step 13 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='#UpdateMetric']
+Step 14 of LoginDploy_5 Executing
+<--Wait-->
+Step 15 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='UpdateMetricGrid']/div[2]/table/tbody/tr
+NetCostTest------------true
+Step 16 of LoginDploy_5 Executing
+<--Wait-->
+Step 17 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  txtActualValue
+Step 18 of LoginDploy_5 Executing
+<--Wait-->
+Step 19 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  cbShift
+-- Select --
+ShiftA
+ShiftB
+Attribute---false
+Step 20 of LoginDploy_5 Executing
+<--Wait-->
+Step 21 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  btnSave
+Step 22 of LoginDploy_5 Executing
+<--Wait-->
+Step 23 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  .//*[@id='reasonModal']/div/div[1]/button
+Step 24 of LoginDploy_5 Executing
+<--Wait-->
+Step 25 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@class='divHitMiss']
+equals : true
+comparess : 0
+Step 26 of LoginDploy_5 Executing
+<--Wait-->
+Step 27 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  .//*[@id='PerformFilterClick']/span
+Step 28 of LoginDploy_5 Executing
+<--Wait-->
+Step 29 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  .//*[@id='PerformUpdatePopover']/div[1]/div/div[1]/div[3]/div/label/input
+Step 30 of LoginDploy_5 Executing
+<--Wait-->
+Step 31 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  btnHistoryMetricFilter
+Step 32 of LoginDploy_5 Executing
+<--Wait-->
+Step 33 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  .//*[@id='historyActualValGrid']/div[@class='k-grid-content']/table/tbody/tr
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+planned :100 & actualValue :50 &  unitLost :50 & subtracting true 
+ 
+sumActualvalue :50 & sumPlannedvalue100
+Step 34 of LoginDploy_5 Executing
+<--Wait-->
+Step 35 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[@href='#PerformanceDashBoard']
+Step 36 of LoginDploy_5 Executing
+<--Wait-->
+Step 37 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='performanceGrid']/div[@class='k-grid-content']/table/tbody/tr
+ text inside div# Customer Complaints
+false
+ text inside divThroughput
+false
+ text inside divProductivity
+false
+ text inside divThroughput
+false
+ text inside divThroughput
+false
+ text inside divOvertime %
+false
+ text inside divOTIF%
+false
+ text inside divThroughput
+false
+ text inside divTCIR
+false
+ text inside divTCIR
+false
+ text inside divSAFETY-AVERAGE-1
+false
+ text inside div1425
+false
+ text inside divPraveen-Mertric-Set-1
+false
+ text inside divPraveen-Metricset3
+false
+ text inside divPraveen-Metric-Set-2
+false
+ text inside divHOTSPOT-COST-AVERAGE-NUM-2
+false
+ text inside divHOTSPOT-COST-AVERAGE-NUM-4
+false
+ text inside div# Customer Complaints
+false
+ text inside divThroughput
+false
+ text inside divProductivity
+false
+ text inside divMetric-Cost1
+false
+ text inside divHOTSPOT-COST-AVERAGE-NUM-1
+false
+ text inside divMetric-Test2
+false
+ text inside divMetric-Safety2
+false
+ text inside divMetric-Safety1
+false
+ text inside div# Customer Complaints
+false
+ text inside divMetricQuality1
+false
+ text inside divMetricQuality2
+false
+ text inside div# Customer Complaints
+false
+ text inside div# Customer Complaints
+false
+ text inside divMetric-Test1
+false
+ text inside div# Customer Complaints
+false
+ text inside div# Customer Complaints
+false
+ text inside divOTIF%
+false
+ text inside divOTIF%
+false
+ text inside divProductivity
+false
+ text inside divProductivity
+false
+ text inside divOTIF%
+false
+ text inside divOTIF%
+false
+ text inside divProductivity
+false
+ text inside divProductivity
+false
+ text inside div# of Near Misses
+false
+ text inside divOTIF%
+false
+ text inside divOTIF%
+false
+ text inside divOTIF%
+false
+ text inside divProductivity
+false
+ text inside divProductivity
+false
+ text inside div# of Near Misses
+false
+ text inside divProductivity
+false
+ text inside divOTIF%
+false
+ text inside divProductivity
+false
+ text inside divProductivity
+false
+ text inside divMetric-Cost2
+false
+ text inside divNetCostTest
+true
+got inside matched
+
+ text inside divOTIF%
+false
+ text inside divOTIF%
+false
+ text inside divADD Metric
+false
+ text inside divabc123
+false
+ text inside divtest1112
+false
+ text inside divNasDontDelete
+false
+ text inside divtestss
+false
+ text inside divabcdefgehijklmnopqrstuvwxyzabcdefghijklmnopqrstuvw
+false
+ text inside divrewr
+false
+ text inside divMETRIC-SET-SAFETY-SUM-1
+false
+ text inside divgshock
+false
+ text inside divTCIR
+false
+ text inside divTCIR
+false
+ text inside divInventory
+false
+ text inside divInventory
+false
+ text inside divInventory
+false
+ text inside divInventory
+false
+ text inside divMetric SET
+false
+ text inside divnexus
+false
+ text inside divThroughput
+false
+ text inside divTCIR
+false
+ text inside divThroughput
+false
+ text inside divOvertime %
+false
+ text inside divHOTSPOT-COST-AVERAGE-NUM-3
+false
+ text inside divOvertime %
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside divOvertime %
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside divThroughput
+false
+ text inside divThroughput
+false
+ text inside divOvertime %
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside divOvertime %
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside divDefect Rate
+false
+ text inside divOvertime %
+false
+ text inside divOvertime %
+false
+ text inside divDefect Rate
+false
+ text inside divThroughput
+false
+ text inside divThroughput
+false
+ text inside divDefect Rate
+false
+ text inside divOTIF%
+false
+ text inside divOvertime %
+false
+ text inside divDefect Rate
+false
+ text inside div# Customer Complaints
+false
+ text inside divThroughput
+false
+ text inside divDefect Rate
+false
+ text inside divOvertime %
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside divOvertime %
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside divOvertime %
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside div# of Near Misses
+false
+ text inside divDefect Rate
+false
+ text inside divProductivity
+false
+Step 38 of LoginDploy_5 Executing
+<--Wait-->
+Step 39 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-user']
+Step 40 of LoginDploy_5 Executing
+<--Wait-->
+Step 41 of LoginDploy_5 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Sign Out']
+Step 42 of LoginDploy_5 Executing
+<--Wait-->
+Step 43 of LoginDploy_5 Executing
+driverChromeDriver: chrome on XP (62ecaedf5a882b09ad6b797ed5738a33)
+TestCase Name----LoginDploy_7
+suitSheet----jxl.read.biff.SheetImpl@157f53d
+Executing the TestCase: Verify move to feature of Bowler Watch Widget   Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_7 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  dash_manageDashboard
+Step 6 of LoginDploy_7 Executing
+<--Wait-->
+Step 7 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  kAddDashboard
+Step 8 of LoginDploy_7 Executing
+<--Wait-->
+Step 9 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardName
+Step 10 of LoginDploy_7 Executing
+<--Wait-->
+Step 11 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardDescription
+Step 12 of LoginDploy_7 Executing
+<--Wait-->
+Step 13 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  IsDefault
+Step 14 of LoginDploy_7 Executing
+<--Wait-->
+Step 15 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-save']
+Step 16 of LoginDploy_7 Executing
+<--Wait-->
+Step 17 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='beanNew']
+Step 18 of LoginDploy_7 Executing
+<--Wait-->
+Step 19 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  dash_manageDashboard
+Step 20 of LoginDploy_7 Executing
+<--Wait-->
+Step 21 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  kAddDashboard
+Step 22 of LoginDploy_7 Executing
+<--Wait-->
+Step 23 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardName
+Step 24 of LoginDploy_7 Executing
+<--Wait-->
+Step 25 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardDescription
+Step 26 of LoginDploy_7 Executing
+<--Wait-->
+Step 27 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  IsDefault
+Step 28 of LoginDploy_7 Executing
+<--Wait-->
+Step 29 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-save']
+Step 30 of LoginDploy_7 Executing
+<--Wait-->
+Step 31 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='bean']
+Step 32 of LoginDploy_7 Executing
+<--Wait-->
+Step 33 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  addWidgetFilterClick
+Step 34 of LoginDploy_7 Executing
+<--Wait-->
+Step 35 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='widgetList']/div[2]/table/tbody/tr
+onSite :Bowler Watch
+onSite.trim().equals(item.trim())true
+Step 36 of LoginDploy_7 Executing
+<--Wait-->
+Step 37 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  btnAddWidget
+Step 38 of LoginDploy_7 Executing
+<--Wait-->
+Step 39 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[1]/div/div/button
+Step 40 of LoginDploy_7 Executing
+<--Wait-->
+Step 41 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[1]/div/div/ul/li
+Wigets Dashboard------------false
+Demo Dashboard------------false
+Test------------false
+Demo------------false
+New Dashboard------------false
+beanNew------------true
+Step 42 of LoginDploy_7 Executing
+<--Wait-->
+Step 43 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='beanNew']
+Step 44 of LoginDploy_7 Executing
+<--Wait-->
+Step 45 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id="content_width"]/div/div/div[1]/h3
+widgetAssertion :Bowler Watch
+widgetAssertion.trim().equals(item.trim())true
+item.trim() :Bowler Watch
+Step 46 of LoginDploy_7 Executing
+<--Wait-->
+Step 47 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //li[@id='dash_manageDashboard']
+Step 48 of LoginDploy_7 Executing
+<--Wait-->
+Step 49 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='manageDashboardGrid']/div[2]/table/tbody/tr
+metric text :Wigets Dashboard
+metric text :Demo Dashboard
+metric text :Test
+metric text :Demo
+metric text :New Dashboard
+metric text :beanNew
+metric text :bean
+Step 50 of LoginDploy_7 Executing
+<--Wait-->
+Step 51 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //button[text()='OK']
+Step 52 of LoginDploy_7 Executing
+<--Wait-->
+Step 53 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='manageDashboardGrid']/div[2]/table/tbody/tr
+metric text :Wigets Dashboard
+metric text :Demo Dashboard
+metric text :Test
+metric text :Demo
+metric text :New Dashboard
+metric text :beanNew
+Step 54 of LoginDploy_7 Executing
+<--Wait-->
+Step 55 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //button[text()='OK']
+Step 56 of LoginDploy_7 Executing
+<--Wait-->
+Step 57 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-user']
+Step 58 of LoginDploy_7 Executing
+<--Wait-->
+Step 59 of LoginDploy_7 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Sign Out']
+Step 60 of LoginDploy_7 Executing
+<--Wait-->
+Step 61 of LoginDploy_7 Executing
+driverChromeDriver: chrome on XP (b6ced2f5637ed6a5f16898ba7980b761)
+TestCase Name----LoginDploy_8
+suitSheet----jxl.read.biff.SheetImpl@fe8ee7
+Executing the TestCase: Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option Flag : Y
+RetryCount : 1
+Step 1 of LoginDploy_8 Executing
+stepData : AppURL
+entered=======================
+OSNameFromGeneric :false
+Using Chrome
+Step 2 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_UserName
+Step 3 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_Password
+Step 4 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  ctl00_ContentPlaceHolder1_loginForm_lnkLogin
+Step 5 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  dash_manageDashboard
+Step 6 of LoginDploy_8 Executing
+<--Wait-->
+Step 7 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  kAddDashboard
+Step 8 of LoginDploy_8 Executing
+<--Wait-->
+Step 9 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardName
+Step 10 of LoginDploy_8 Executing
+<--Wait-->
+Step 11 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  DashboardDescription
+Step 12 of LoginDploy_8 Executing
+<--Wait-->
+Step 13 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  IsDefault
+Step 14 of LoginDploy_8 Executing
+<--Wait-->
+Step 15 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-save']
+Step 16 of LoginDploy_8 Executing
+<--Wait-->
+Step 17 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='bean']
+Step 18 of LoginDploy_8 Executing
+<--Wait-->
+Step 19 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  addWidgetFilterClick
+Step 20 of LoginDploy_8 Executing
+<--Wait-->
+Step 21 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='widgetList']/div[2]/table/tbody/tr
+onSite :Bowler Watch
+onSite.trim().equals(item.trim())false
+onSite :Bowler List Summary - Future
+onSite.trim().equals(item.trim())false
+onSite :Biggest Bowler Misses
+onSite.trim().equals(item.trim())true
+Step 22 of LoginDploy_8 Executing
+<--Wait-->
+Step 23 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  btnAddWidget
+Step 24 of LoginDploy_8 Executing
+<--Wait-->
+Step 25 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id="content_width"]/div/div/div[1]/h3
+widgetAssertion :Biggest Bowler Misses
+widgetAssertion.trim().equals(item.trim())true
+item.trim() :Biggest Bowler Misses
+Step 26 of LoginDploy_8 Executing
+<--Wait-->
+Step 27 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div/div[2]/div/ul/li[3]
+Step 28 of LoginDploy_8 Executing
+<--Wait-->
+Step 29 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div[1]/div[2]/div/div/div[3]/div[1]/div/table/tbody/tr[1]/td/input
+
+Step 30 of LoginDploy_8 Executing
+<--Wait-->
+Step 31 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div/div[2]/div/div/div[3]/a[text()='Apply Settings']
+Step 32 of LoginDploy_8 Executing
+<--Wait-->
+Step 33 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='content_width']/div[1]/div/div[2]/div/div/div[1]/div/div[2]/table/tbody/tr
+onSite :610.0table value :500.0
+value matchedLos Angeles
+onSite :583.7table value :500.0
+value matchedTucson
+Step 34 of LoginDploy_8 Executing
+<--Wait-->
+Step 35 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //li[@id='dash_manageDashboard']
+Step 36 of LoginDploy_8 Executing
+<--Wait-->
+Step 37 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //div[@id='manageDashboardGrid']/div[2]/table/tbody/tr
+metric text :Wigets Dashboard
+metric text :Demo Dashboard
+metric text :Test
+metric text :Demo
+metric text :New Dashboard
+metric text :Test1
+metric text :Test2
+metric text :bean
+Step 38 of LoginDploy_8 Executing
+<--Wait-->
+Step 39 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //button[text()='OK']
+Step 40 of LoginDploy_8 Executing
+<--Wait-->
+Step 41 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //i[@class='fa fa-user']
+Step 42 of LoginDploy_8 Executing
+<--Wait-->
+Step 43 of LoginDploy_8 Executing
+entered repositry------------
+ORproperties--------------  ;  //a[text()='Sign Out']
+Step 44 of LoginDploy_8 Executing
+<--Wait-->
+Step 45 of LoginDploy_8 Executing
+driverChromeDriver: chrome on XP (5f82da41f260a82badf00c834e74de3b)
+OSNameFromGenericWindow 7
+.Genrating Report...
+folderPathD:\selenium_framework\trunk\Selenium_framework/TestCases_Report/21Sep/21Sep 15-35-00/
+folder_browser  D:\selenium_framework\trunk\Selenium_framework\TestCases_Report\21Sep\21Sep 15-35-00
+5
+nameOfFile  LoginDploy_3^Verify metric in Metric Selection Grids.txt
+this.testCaseName : LoginDploy_3^Verify metric in Metric Selection Grids
+myTestCasename : LoginDploy_3^Verify metric in Metric Selection Grids.txt
+failFlag : 1
+caseName[Ljava.lang.String;@10676f3
+5
+nameOfFile  LoginDploy_5^Verify miss result of metric .txt
+this.testCaseName : LoginDploy_5^Verify miss result of metric 
+myTestCasename : LoginDploy_5^Verify miss result of metric .txt
+failFlag : 0
+caseName[Ljava.lang.String;@16b6cdf
+5
+nameOfFile  LoginDploy_7^Verify move to feature of Bowler Watch Widget  .txt
+this.testCaseName : LoginDploy_7^Verify move to feature of Bowler Watch Widget  
+myTestCasename : LoginDploy_7^Verify move to feature of Bowler Watch Widget  .txt
+failFlag : 0
+caseName[Ljava.lang.String;@1b8ac61
+5
+nameOfFile  LoginDploy_8^Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option.txt
+this.testCaseName : LoginDploy_8^Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option
+myTestCasename : LoginDploy_8^Verify the  Biggest Bowler Miss Watch Widget Settings Tabs- Minimum percentage Miss option.txt
+failFlag : 0
+caseName[Ljava.lang.String;@13d403e
+5
+sendReportByMailFlag from config is:N
+sendReportByMail flag is set as N in config so mail report will not send
+
+Time: 278.778
+
+OK (3 tests)
+

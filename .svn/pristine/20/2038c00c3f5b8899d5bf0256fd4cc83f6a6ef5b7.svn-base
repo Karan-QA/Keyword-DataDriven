@@ -1,0 +1,4 @@
+sentinel
+Browser "AppURL" is launched successfully:- Pass
+Text "tjones@abcpaint.com" is not entered successfully in "UserName"  :- Fail
+Browser is closed successfully:- Pass
